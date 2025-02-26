@@ -21,7 +21,7 @@ items:
       * Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 in Python.  
       * Mapped singular configurations in C-space to improve motion planning.  
       * Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment.
-        
+
   - title: Technical Project Manager
     company: Quantum-h, UK
     company_url: ''
@@ -67,3 +67,20 @@ items:
       * Engineered and deployed AI chatbots using RASA, enhancing user engagement with 15 distinct conversational flows.  
       * Optimized chatbot performance, reducing average response time by over 10 seconds per inquiry.
 ---
+
+# Experience
+
+{% for item in page.items %}
+  ## {{ item.title }}
+  **Company:** {{ item.company }}  
+  **Location:** {{ item.location }}  
+  **Start Date:** {{ item.date_start }}  
+  {% if item.date_end %} **End Date:** {{ item.date_end }} {% endif %}  
+
+  {{ item.description }}
+
+  {% if item.company_logo %}
+    ![Logo](assets/images/logos/{{ item.company_logo }}.png)  
+  {% endif %}
+  <br><br>
+{% endfor %}
