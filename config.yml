@@ -39,8 +39,8 @@ params:
     I create educational content on data science and bioinformatics.
     Some of you may know me as the **Data Professor**."
     imageUrl: "images/shizra.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 180
+    imageHeight: 180
     imageTitle: "Robotics"
     buttons:
       - name: CV
