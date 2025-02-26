@@ -5,7 +5,7 @@ permalink: "/about/"
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="assets/images/shizra.jpg" alt="Profile Picture" style="width: 200px; border-radius: 50%; margin-right: 20px;">
+  <img src="images/shizra.jpg" alt="Profile Picture" style="width: 200px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h2>About Me</h2>
     <p>
