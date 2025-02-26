@@ -1,6 +1,4 @@
 ---
-title: "Experience"
-layout: "page"
 permalink: "/experience/"
 ---
 items:
