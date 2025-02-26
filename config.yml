@@ -28,7 +28,7 @@ params:
 
   label:
     text: "Shizra Tariq"
-    icon: "/theplaybook/assets/images/3541254.png"
+    icon: "images/3541254.png"
     iconHeight: 35
 
   # profile-mode
