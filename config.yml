@@ -42,8 +42,8 @@ params:
     imageHeight: 120
     imageTitle: "Robotics"
     buttons:
-      - name: Blogs
-        url: blogs
+      - name: CV
+        url: cv
       - name: Projects
         url: projects
 
