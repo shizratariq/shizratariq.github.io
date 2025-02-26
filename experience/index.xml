@@ -12,11 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shizratariq.github.io/theplaybook/experience/experience/</guid>
-      <description>Research Assistant College of Science and Engineering, University of Minnesota
-Summer 2024
-Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 in Python. Mapped singular configurations in C-space to improve motion planning. Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment. Technical Project Manager Quantum-h, UK
-2023 - 2024
-Coordinated the work of the Cross-Functional Agile (CSA) team for international development, QA, and project management.</description>
+      <description>items: - title: Research Assistant company: College of Science and Engineering, University of Minnesota company_url: &amp;rsquo;&#39; company_logo: umngold location: Minneapolis, MN, USA date_start: &amp;lsquo;2024-06-01&amp;rsquo; date_end: description: |2- * Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 in Python.
+* Mapped singular configurations in C-space to improve motion planning.
+* Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment.</description>
     </item>
     
   </channel>
