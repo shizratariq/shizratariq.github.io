@@ -1,7 +1,7 @@
-
+---
 permalink: "/experience/"
 layout: "page"
-
+---
 items:
     - title: Research Assistant
       company: College of Science and Engineering, University of Minnesota
