@@ -31,10 +31,8 @@ jobs:
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         run: |
-          mkdir -p built-site
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
-          git init
           git add .
           git config user.name 'Shizra Tariq'
           git config user.email 'shizra86247@gmail.com'
