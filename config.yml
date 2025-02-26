@@ -26,10 +26,7 @@ params:
   tocopen: false
 
 
-  label:
-    text: "Shizra Tariq"
-    icon: "images/icon2.png"
-    iconHeight: 35
+  
 
   # profile-mode
   profileMode:
