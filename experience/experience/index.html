@@ -7,7 +7,14 @@
 <meta name="robots" content="index, follow">
 <title>Experience | Shizra Tariq</title>
 <meta name="keywords" content="">
-<meta name="description" content="Experience - Shizra Tariq">
+<meta name="description" content="Experience {% for item in page.items %}
+{{ item.title }} Company: {{ item.company }}
+Location: {{ item.location }}
+Start Date: {{ item.date_start }}
+{% if item.date_end %} End Date: {{ item.date_end }} {% endif %}
+{{ item.description }}
+{% if item.company_logo %} ![Logo](assets/images/logos/{{ item.company_logo }}.png)
+{% endif %} {% endfor %}">
 <meta name="author" content="Shizra Tariq">
 <link rel="canonical" href="https://shizratariq.github.io/theplaybook/experience/experience/">
 <link crossorigin="anonymous" href="/theplaybook/assets/css/stylesheet.a583addbd0da2f31e74b9e80ca01afa5806926ca3bbdc942e27fef0498e625df.css" integrity="sha256-pYOt29DaLzHnS56AygGvpYBpJso7vclC4n/vBJjmJd8=" rel="preload stylesheet" as="style">
@@ -57,7 +64,14 @@
 
     </style>
 </noscript><meta property="og:title" content="Experience" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Experience {% for item in page.items %}
+{{ item.title }} Company: {{ item.company }}
+Location: {{ item.location }}
+Start Date: {{ item.date_start }}
+{% if item.date_end %} End Date: {{ item.date_end }} {% endif %}
+{{ item.description }}
+{% if item.company_logo %} ![Logo](assets/images/logos/{{ item.company_logo }}.png)
+{% endif %} {% endfor %}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://shizratariq.github.io/theplaybook/experience/experience/" /><meta property="article:section" content="experience" />
 <meta property="article:published_time" content="2023-10-24T00:00:00+00:00" />
@@ -65,7 +79,14 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Experience"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Experience {% for item in page.items %}
+{{ item.title }} Company: {{ item.company }}
+Location: {{ item.location }}
+Start Date: {{ item.date_start }}
+{% if item.date_end %} End Date: {{ item.date_end }} {% endif %}
+{{ item.description }}
+{% if item.company_logo %} ![Logo](assets/images/logos/{{ item.company_logo }}.png)
+{% endif %} {% endfor %}"/>
 
 
 <script type="application/ld+json">
@@ -94,12 +115,12 @@
   "@type": "BlogPosting",
   "headline": "Experience",
   "name": "Experience",
-  "description": "",
+  "description": "Experience {% for item in page.items %}\n{{ item.title }} Company: {{ item.company }}\nLocation: {{ item.location }}\nStart Date: {{ item.date_start }}\n{% if item.date_end %} End Date: {{ item.date_end }} {% endif %}\n{{ item.description }}\n{% if item.company_logo %} ![Logo](assets/images/logos/{{ item.company_logo }}.png)\n{% endif %} {% endfor %}",
   "keywords": [
     
   ],
-  "articleBody": "",
-  "wordCount" : "0",
+  "articleBody": "Experience {% for item in page.items %}\n{{ item.title }} Company: {{ item.company }}\nLocation: {{ item.location }}\nStart Date: {{ item.date_start }}\n{% if item.date_end %} End Date: {{ item.date_end }} {% endif %}\n{{ item.description }}\n{% if item.company_logo %} ![Logo](assets/images/logos/{{ item.company_logo }}.png)\n{% endif %} {% endfor %}\n",
+  "wordCount" : "51",
   "inLanguage": "en",
   "datePublished": "2023-10-24T00:00:00Z",
   "dateModified": "2023-10-24T00:00:00Z",
@@ -219,10 +240,26 @@
     <h1 class="post-title">
       Experience
     </h1>
-    <div class="post-meta"><span title='2023-10-24 00:00:00 +0000 UTC'>October 24, 2023</span>&nbsp;·&nbsp;0 min&nbsp;·&nbsp;Shizra Tariq
+    <div class="post-meta"><span title='2023-10-24 00:00:00 +0000 UTC'>October 24, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Shizra Tariq
 
 </div>
   </header> 
+  <div class="post-content"><h1 id="experience">Experience<a hidden class="anchor" aria-hidden="true" href="#experience">#</a></h1>
+<p>{% for item in page.items %}</p>
+<h2 id="-itemtitle-">{{ item.title }}<a hidden class="anchor" aria-hidden="true" href="#-itemtitle-">#</a></h2>
+<p><strong>Company:</strong> {{ item.company }}<br>
+<strong>Location:</strong> {{ item.location }}<br>
+<strong>Start Date:</strong> {{ item.date_start }}<br>
+{% if item.date_end %} <strong>End Date:</strong> {{ item.date_end }} {% endif %}</p>
+<p>{{ item.description }}</p>
+<p>{% if item.company_logo %}
+![Logo](assets/images/logos/{{ item.company_logo }}.png)<br>
+{% endif %}
+<!-- raw HTML omitted --><!-- raw HTML omitted -->
+{% endfor %}</p>
+
+
+  </div>
 
   <footer class="post-footer">
     <ul class="post-tags">

@@ -182,9 +182,16 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p></p>
+    <p>Experience {% for item in page.items %}
+{{ item.title }} Company: {{ item.company }}
+Location: {{ item.location }}
+Start Date: {{ item.date_start }}
+{% if item.date_end %} End Date: {{ item.date_end }} {% endif %}
+{{ item.description }}
+{% if item.company_logo %} ![Logo](assets/images/logos/{{ item.company_logo }}.png)
+{% endif %} {% endfor %}</p>
   </div>
-  <footer class="entry-footer"><span title='2023-10-24 00:00:00 +0000 UTC'>October 24, 2023</span>&nbsp;·&nbsp;0 min&nbsp;·&nbsp;Shizra Tariq</footer>
+  <footer class="entry-footer"><span title='2023-10-24 00:00:00 +0000 UTC'>October 24, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Shizra Tariq</footer>
   <a class="entry-link" aria-label="post link to Experience" href="https://shizratariq.github.io/theplaybook/experience/experience/"></a>
 </article>
     </main>
