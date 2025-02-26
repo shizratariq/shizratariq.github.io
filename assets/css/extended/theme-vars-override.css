@@ -21,3 +21,6 @@
   --code-bg: #2d2d2d;
   --border: #333333;
 }
+.breadcrumb, .post-meta {
+  display: none;
+}
