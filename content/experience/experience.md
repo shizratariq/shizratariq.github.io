@@ -38,16 +38,5 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-### 3. [Position Title at Company Name](#experience-3)
-**Duration:** Month Year – Month Year  
-**Location:** City, Country  
-
-- **Key Responsibilities:**
-  - Task 1
-  - Task 2
-  - Task 3
-
----
-
 
 
