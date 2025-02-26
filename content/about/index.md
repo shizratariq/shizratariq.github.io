@@ -4,8 +4,13 @@ layout: "page"
 permalink: "/about/"
 ---
 
-## Welcome to my personal website!
+I’m a Master’s student in Robotics at the University of Minnesota, passionate about intelligent robotic systems and AI-driven solutions. My research focuses on robotic surgery for histotripsy, where I work with the UR5e robotic arm using ROS2 and MoveIt2 to improve motion planning and ensure collision-free navigation in constrained environments.
 
-Hello! I'm Shizra Tariq, a passionate robotics student and an aspiring leader in the field. This website showcases my work, experiences, and thoughts.
+Beyond research, I have experience in machine learning, computer vision, and AI-driven prosthetics. I enjoy working on cutting-edge robotics applications that push the boundaries of automation and human-robot interaction.
 
-Feel free to explore the sections to learn more about my journey.
+Feel free to reach out! 😃
+
+## Interests
+🤖 Robotics
+👀 Computer Vision
+🧠 AI/ML
