@@ -33,8 +33,8 @@ This blog post will be helpful if you are not familiar with any of the below:</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shizratariq.github.io/theplaybook/about/</guid>
-      <description>Welcome to my personal website! Hello! I&amp;rsquo;m Shizra Tariq, a passionate robotics student and an aspiring leader in the field. This website showcases my work, experiences, and thoughts.
-Feel free to explore the sections to learn more about my journey.</description>
+      <description>I’m a Master’s student in Robotics at the University of Minnesota, passionate about intelligent robotic systems and AI-driven solutions. My research focuses on robotic surgery for histotripsy, where I work with the UR5e robotic arm using ROS2 and MoveIt2 to improve motion planning and ensure collision-free navigation in constrained environments.
+Beyond research, I have experience in machine learning, computer vision, and AI-driven prosthetics. I enjoy working on cutting-edge robotics applications that push the boundaries of automation and human-robot interaction.</description>
     </item>
     
     
