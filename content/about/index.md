@@ -11,6 +11,6 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 Feel free to reach out! 😃
 
 ## Interests
-🤖 Robotics
-👀 Computer Vision
-🧠 AI/ML
+- Robotics
+- Computer Vision
+- AI/ML
