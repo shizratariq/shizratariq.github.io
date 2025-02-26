@@ -1,23 +1,23 @@
 :root {
-  --theme: #f7f7f7;
-  --entry: #ffffff;
-  --primary: #2d3436;
-  --secondary: #0984e3;
-  --tertiary: rgba(9, 132, 227, 0.08);
-  --content: rgba(45, 52, 54, 0.88);
-  --hljs-bg: #1c1d21;
-  --code-bg: #f0f0f0;
-  --border: #dfe6e9;
+    --theme: #f6f5f0; /* Soft beige for the background */
+    --entry: #ffffff; /* Pure white for cards or sections */
+    --primary: #2b3a3a; /* Deep charcoal for text */
+    --secondary: #4da398; /* Muted teal for buttons and accents */
+    --tertiary: rgba(77, 163, 152, 0.15); /* Light teal overlay for subtle highlights */
+    --content: rgba(43, 58, 58, 0.85); /* Dark charcoal with slight transparency for content */
+    --hljs-bg: #1f1f1f; /* Dark gray for code blocks */
+    --code-bg: #f7f7f7; /* Light gray for code backgrounds */
+    --border: #d9d9d9; /* Soft gray for dividers and borders */
 }
 
 .dark {
-  --theme: #222831;
-  --entry: #393e46;
-  --primary: rgba(238, 238, 238, 0.95);
-  --secondary: #00adb5;
-  --tertiary: rgba(0, 173, 181, 0.18);
-  --content: rgba(238, 238, 238, 0.85);
-  --hljs-bg: #2c3e50;
-  --code-bg: #34495e;
-  --border: #4a6572;
+    --theme: #1e2a2a; /* Deep forest green for the background */
+    --entry: #2c3a3a; /* Slightly lighter green-gray for cards or sections */
+    --primary: #e8eae6; /* Off-white for text */
+    --secondary: #6cc4b0; /* Softer teal for buttons and accents */
+    --tertiary: rgba(108, 196, 176, 0.2); /* Transparent teal overlay */
+    --content: rgba(232, 234, 230, 0.85); /* Off-white with slight transparency for content */
+    --hljs-bg: #333333; /* Darker gray for code blocks */
+    --code-bg: #444444; /* Medium gray for code backgrounds */
+    --border: #3b4a4a; /* Muted green-gray for dividers and borders */
 }
