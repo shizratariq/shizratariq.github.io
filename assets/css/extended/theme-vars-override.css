@@ -1,8 +1,8 @@
 :root {
-    --theme: #fff;
-    --entry: #cfcfff;
-    --primary: rgba(0, 0, 106, 0.88);
-    --secondary: rgba(0, 0, 80, 0.78);
+    --theme: #e8f0e4;
+    --entry: #ffffff;
+    --primary: rgb(23, 26, 26);
+    --secondary: rgb(84, 204, 134);
     --tertiary: rgba(0, 0, 106, 0.16);
     --content: rgba(0, 0, 60, 0.88);
     --hljs-bg: #1c1d21;
