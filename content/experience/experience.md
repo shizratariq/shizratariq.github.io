@@ -11,7 +11,7 @@ layout: "default"
 ---
 
 
-# Research Assistant  
+## Research Assistant  
 **Company:** College of Science and Engineering, University of Minnesota  
 **Location:** Minneapolis, MN, USA  
 **Start Date:** June 2024  
