@@ -38,7 +38,7 @@ params:
     subtitle: "This is the website of **Chanin Nantasenamat, Ph.D.** and
     I create educational content on data science and bioinformatics.
     Some of you may know me as the **Data Professor**."
-    imageUrl: "/theplaybook/assets/images/shizra.jpg"
+    imageUrl: "images/shizra.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Robotics"
