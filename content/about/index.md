@@ -10,6 +10,25 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 
 Feel free to reach out! 😃
 
+## education:
+  - area: MS in Robotics
+    institution: University of Minnesota
+    date_start: 2024-01-06
+    date_end: 2025-12-01
+    summary: |
+      GPA: 3.8/4.0
+    
+      Relevant Courses: Intelligent Robotic Systems, Machine Learning, AI, NLP, Computer Vision, Project Management
+    
+  - area: BS in Computer Engineering
+    institution: Khwaja Fareed University of Engineering - KFUEIT
+    date_start: 2018-08-01
+    date_end: 2022-05-22
+    summary: |
+      GPA: 3.85/4.0 (Gold Medalist)
+    
+      Relevant Courses: AI, Robotics, Embedded Systems, Deep Learning
+    
 ## Interests  
 - 🤖 Robotics  
 - 👀 Computer Vision  
