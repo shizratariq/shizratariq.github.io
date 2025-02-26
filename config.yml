@@ -100,9 +100,9 @@ menu:
       name: Blogs
       url: /blogs/
       weight: 70
-    - identifier: community
-      name: Community Services
-      url: /community/
+    - identifier: extracurricular
+      name: Extracurricular
+      url: /extracurricular/
       weight: 80
     - identifier: cv
       name: CV
