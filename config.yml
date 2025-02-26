@@ -7,7 +7,7 @@ enableEmoji: true
 
 params:
   author: Shizra Tariq
-  description: "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
+  description: "This is the website of **Shizra Tariq**. a Robotics graduate student passionate about AI, machine learning, and biomedical robotics. I work on developing intelligent robotic systems, AI-driven prosthetics, and autonomous navigation solutions."
   keywords: [Blog, Portfolio, Data Science]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
