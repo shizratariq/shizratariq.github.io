@@ -32,8 +32,8 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |
           mkdir -p built-site
-          cp -R public/* built-site/
-          cd built-site
+          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          cd ${GITHUB_WORKSPACE}/built-site
           git init
           git add .
           git config user.name 'Shizra Tariq'
