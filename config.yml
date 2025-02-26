@@ -6,9 +6,9 @@ theme: PaperMod
 enableEmoji: true
 
 params:
-  author: David Hwang
+  author: Shizra Tariq
   homeInfoParams:
-    Title: "the dev playbook"
+    Title: "Shizra Tariq"
     Content: >
       Welcome to the **dev playbook** 🎉
 
