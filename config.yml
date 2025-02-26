@@ -28,7 +28,7 @@ params:
 
   label:
     text: "Shizra Tariq"
-    icon: "images/3541254.png"
+    icon: "images/icon.png"
     iconHeight: 35
 
   # profile-mode
