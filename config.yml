@@ -10,13 +10,13 @@ params:
   homeInfoParams:
     Title: "Shizra Tariq"
     Content: >
-      Welcome to the **dev playbook** 🎉
+      Welcome to the **my website** 🎉
 
-      - This is a space where I will mostly be sharing about Go & Kubernetes 🙂
+      - write Summary here🙂
 
   socialIcons:
     - name: Github
-      url: "https://github.com/dhij"
+      url: "https://github.com/shizratariq"
     - name: Youtube
       url: "https://www.youtube.com/@dhij"
     - name: Rss
@@ -27,15 +27,19 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: experience
+      name: Experience
+      url: /experience/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 30
+    - identifier: blogs
+      name: Blogs
+      url: /blogs/
+      weight: 40
