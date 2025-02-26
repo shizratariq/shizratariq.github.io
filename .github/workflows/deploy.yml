@@ -31,10 +31,14 @@ jobs:
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         run: |
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
-          cd ${GITHUB_WORKSPACE}/built-site
+          mkdir -p built-site
+          cp -R public/* /built-site/
+          cd built-site
+          git init
           git add .
           git config user.name 'Shizra Tariq'
           git config user.email 'shizra86247@gmail.com'
-          git commit -m 'Updated site'
-          git push
+          git commit -m "Updated site" || echo "No changes to commit"
+          git branch -M gh-pages
+          git remote add origin https://github.com/shizratariq/theplaybook.git
+          git push -f origin gh-pages
