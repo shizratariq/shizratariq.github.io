@@ -4,8 +4,6 @@ layout: "page"
 permalink: "/experience/"
 ---
 
-# Experience
-
 ## Research Assistant  
 **College of Science and Engineering, University of Minnesota**  
 *Summer 2024*  
