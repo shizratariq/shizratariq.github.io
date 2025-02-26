@@ -60,8 +60,10 @@ params:
       url: "https://github.com/shizratariq"
     - name: linkedin
       url: "https://www.linkedin.com/in/shizratariq/"
-    - name: Rss
-      url: "index.xml"
+    - name: Email
+      url: "mailto:tariq044@umn.edu"
+    - name: Instagram
+      url: "https://www.instagram.com/shyzrah/"
       
   cover:
     hidden: true # hide everywhere but not in structured data
