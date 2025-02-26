@@ -56,12 +56,12 @@ params:
       - write Summary here🙂
 
   socialIcons:
-    - name: Github
-      url: "https://github.com/shizratariq"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/shizratariq/"
     - name: Email
       url: "mailto:tariq044@umn.edu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/shizratariq/"
+    - name: Github
+      url: "https://github.com/shizratariq"
     - name: Instagram
       url: "https://www.instagram.com/shyzrah/"
       
