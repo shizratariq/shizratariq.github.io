@@ -28,17 +28,6 @@ This blog post will be helpful if you are not familiar with any of the below:</d
     </item>
     
     <item>
-      <title></title>
-      <link>https://shizratariq.github.io/theplaybook/experience/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shizratariq.github.io/theplaybook/experience/experience/</guid>
-      <description>items: - title: Research Assistant company: College of Science and Engineering, University of Minnesota company_url: &amp;rsquo;&#39; company_logo: umngold location: Minneapolis, MN, USA date_start: &amp;lsquo;2024-06-01&amp;rsquo; date_end: description: |2- * Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 in Python.
-* Mapped singular configurations in C-space to improve motion planning.
-* Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment.</description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>https://shizratariq.github.io/theplaybook/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +37,17 @@ This blog post will be helpful if you are not familiar with any of the below:</d
 Beyond research, I have experience in machine learning, computer vision, and AI-driven prosthetics. I enjoy working on cutting-edge robotics applications that push the boundaries of automation and human-robot interaction.</description>
     </item>
     
+    
+    <item>
+      <title>Experience</title>
+      <link>https://shizratariq.github.io/theplaybook/experience/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/theplaybook/experience/experience/</guid>
+      <description>block: experience id: experience content: items: - title: Research Assistant company: College of Science and Engineering, University of Minnesota company_url: &amp;rsquo;&#39; company_logo: umngold location: Minneapolis, MN, USA date_start: &amp;lsquo;2024-06-01&amp;rsquo; date_end: description: |2- * Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 in Python.
+* Mapped singular configurations in C-space to improve motion planning.
+* Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment.</description>
+    </item>
     
   </channel>
 </rss>
