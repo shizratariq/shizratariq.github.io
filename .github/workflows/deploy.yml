@@ -39,7 +39,4 @@ jobs:
           git config user.name 'Shizra Tariq'
           git config user.email 'shizra86247@gmail.com'
           git commit -m "Updated site" || echo "No changes to commit"
-          git branch -M gh-pages
-          git add --all
-          git commit -m "Updated site" || echo "No changes to commit"
-          git push -f origin gh-pages
+          git push 
