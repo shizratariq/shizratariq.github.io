@@ -24,16 +24,11 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  colors:
-    primary: '#ff5733'
-    secondary: '#33c1ff'
-    accent: '#6a1b9a'
-    background: '#f1f1f1'
 
 
   label:
     text: "Shizra Tariq"
-    icon: "3541254.png"
+    icon: "/theplaybook/assets/images/3541254.png"
     iconHeight: 35
 
   # profile-mode
