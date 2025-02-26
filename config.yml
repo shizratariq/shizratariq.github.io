@@ -84,7 +84,27 @@ menu:
       name: Projects
       url: /projects/
       weight: 30
+    - identifier: skills
+      name: Skills
+      url: /skills/
+      weight: 40
+    - identifier: certifications
+      name: Certifications
+      url: /certifications/
+      weight: 50
+    - identifier: awards
+      name: Awards
+      url: /awards/
+      weight: 60
     - identifier: blogs
       name: Blogs
       url: /blogs/
-      weight: 40
+      weight: 70
+    - identifier: community
+      name: Community Services
+      url: /community/
+      weight: 80
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 90
