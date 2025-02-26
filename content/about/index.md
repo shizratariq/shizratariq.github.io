@@ -10,7 +10,7 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 
 Feel free to reach out! 😃
 
-## education:
+## Education:
   - area: MS in Robotics
     institution: University of Minnesota
     date_start: 2024-01-06
