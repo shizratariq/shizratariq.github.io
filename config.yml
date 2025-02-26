@@ -24,6 +24,8 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  assets:
+    css: ["css/custom.css"]
 
   label:
     text: "Shizra Tariq"
