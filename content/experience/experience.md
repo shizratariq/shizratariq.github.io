@@ -8,7 +8,7 @@ design:
 
 ## Work Experience
 
-### 1. [Position Title at Company Name](#)
+### 1. [Position Title at Company Name](#experience-1)
 **Duration:** Month Year – Month Year  
 **Location:** City, Country  
 
@@ -19,7 +19,7 @@ design:
 
 ---
 
-### 2. [Position Title at Company Name](#)
+### 2. [Position Title at Company Name](#experience-2)
 **Duration:** Month Year – Month Year  
 **Location:** City, Country  
 
@@ -30,7 +30,7 @@ design:
 
 ---
 
-### 3. [Position Title at Company Name](#)
+### 3. [Position Title at Company Name](#experience-3)
 **Duration:** Month Year – Month Year  
 **Location:** City, Country  
 
@@ -41,7 +41,5 @@ design:
 
 ---
 
-[//]: # (The following lines represent a linked transition from one experience to another.)
-- **From:** [Experience 1](#)
-- **To:** [Experience 2](#)
-- **To:** [Experience 3](#)
+
+
