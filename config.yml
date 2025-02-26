@@ -7,6 +7,46 @@ enableEmoji: true
 
 params:
   author: Shizra Tariq
+  description: "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
+  keywords: [Blog, Portfolio, Data Science]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Shizra Tariq"
+    icon: "3541254.png"
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Welcome! \U0001F44B"
+    subtitle: "This is the website of **Chanin Nantasenamat, Ph.D.** and
+    I create educational content on data science and bioinformatics.
+    Some of you may know me as the **Data Professor**."
+    imageUrl: "shizra.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Robotics"
+    buttons:
+      - name: Blogs
+        url: blogs
+      - name: Projects
+        url: projects
+
   homeInfoParams:
     Title: "Shizra Tariq"
     Content: >
@@ -17,10 +57,15 @@ params:
   socialIcons:
     - name: Github
       url: "https://github.com/shizratariq"
-    - name: Youtube
-      url: "https://www.youtube.com/@dhij"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/shizratariq/"
     - name: Rss
       url: "index.xml"
+      
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   ShowReadingTime: true
   ShowShareButtons: true
