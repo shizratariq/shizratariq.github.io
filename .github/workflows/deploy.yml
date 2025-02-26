@@ -40,5 +40,7 @@ jobs:
           git config user.email 'shizra86247@gmail.com'
           git commit -m "Updated site" || echo "No changes to commit"
           git branch -M gh-pages
+          git add --all
+          git commit -m "Updated site" || echo "No changes to commit"
           git remote add origin https://github.com/shizratariq/theplaybook.git
           git push -f origin gh-pages
