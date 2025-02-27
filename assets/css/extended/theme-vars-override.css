@@ -31,7 +31,7 @@ nav a[href="{{ site.BaseURL }}/"] {
 
 /* Decrease main content font size */
 .post-content {
-  font-size: 0.9rem; /* Original is 1rem */
+  font-size: 1rem; /* Original is 1rem */
 }
 
 /* Adjust headings proportionally */
