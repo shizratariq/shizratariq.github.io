@@ -10,9 +10,7 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 
 Feel free to reach out! 😃
 
----
-
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="width: 48%;">
     <h2>Education</h2>
     <ul>
