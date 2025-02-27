@@ -70,3 +70,6 @@ nav a[href="{{ site.BaseURL }}/"] {
     display: block;
 }
 
+.first-entry.home-info .entry-header h1 {
+    display: none;
+}
