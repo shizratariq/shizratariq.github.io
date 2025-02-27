@@ -67,6 +67,14 @@ nav a[href="{{ site.BaseURL }}/"] {
 }
 /* Alternatively, if you want to target only h2 or other heading levels: */
 .post-content h2 {
-  margin-bottom: 0; 
+  margin-bottom: 8px; 
   padding-bottom: 0; 
 }
+/* Adjust space between list items and paragraphs */
+.post-content ul, .post-content ol, .post-content p {
+  margin-top: 5px; /* Adds some space above lists or paragraphs */
+  margin-bottom: 5px; /* Adds some space below lists or paragraphs */
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
