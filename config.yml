@@ -25,19 +25,11 @@ params:
   showtoc: false
   tocopen: false
   disableHomeMenu: true
-  socialIcons:
-    - name: Email
-      url: "mailto:tariq044@umn.edu"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/shizratariq/"
-    - name: Github
-      url: "https://github.com/shizratariq"
-    - name: Instagram
-      url: "https://www.instagram.com/shyzrah/"
+  
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
     subtitle: "This is the website of **Shizra Tariq**. a Robotics graduate student
     passionate about AI, machine learning, and biomedical robotics. I work on developing
@@ -59,7 +51,15 @@ params:
 
       - write Summary here🙂
 
-  
+  socialIcons:
+    - name: Email
+      url: "mailto:tariq044@umn.edu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/shizratariq/"
+    - name: Github
+      url: "https://github.com/shizratariq"
+    - name: Instagram
+      url: "https://www.instagram.com/shyzrah/"
       
   cover:
     hidden: true # hide everywhere but not in structured data
