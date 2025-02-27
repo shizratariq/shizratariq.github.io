@@ -53,3 +53,7 @@ nav a[href="{{ site.BaseURL }}/"] {
 .site-title {
   font-size: 1.2rem !important;
 }
+.post-title{
+  font-size: 1.6rem;
+}
+  
