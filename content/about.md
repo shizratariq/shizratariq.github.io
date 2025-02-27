@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: "page"
+layout: default
 permalink: "/about/"
 ---
 
@@ -20,7 +20,7 @@ Feel free to reach out! 😃
   - Computer Vision  
   - AI/ML
  
-
+---
 <table>
   <tr>
     <th>Education</th>
