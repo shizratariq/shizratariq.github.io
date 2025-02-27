@@ -80,12 +80,13 @@ nav a[href="{{ site.BaseURL }}/"] {
     display: none !important;
 }
 
-/* Custom Styles for Flex Layout */
-div {
+/* Custom Styles for Flex Layout on About Page */
+.page-about div {
   display: flex;
   justify-content: space-between;
 }
 
-div > div {
+.page-about div > div {
   width: 48%;
 }
+
