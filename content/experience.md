@@ -12,28 +12,28 @@ permalink: "/experience/"
 - Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment  
 ---
 
-## <i class="fas fa-tasks"></i> Technical Project Manager  
+## <h2>Technical Project Manager </h2>
 *Quantum-h, UK*  
 - Led Cross-Functional Agile (CSA) team for international development, QA, and project management  
 - Engineered scalable database architectures, optimizing data retrieval speed by 30%  
 - Fine-tuned complex queries, ensuring complete data accuracy and high integrity across all datasets  
 ---
 
-## <i class="fas fa-flask"></i> Research Assistant  
+## <h2>Research Assistant </h2>
 *Abel & Mercer Co., UK* 
 - Proposed and implemented AI solutions that improved customer interaction metrics by 20%  
 - Designed and trained deep learning models for image recognition and segmentation using TensorFlow and PyTorch  
 - Optimized real-time image processing and model inference with NumPy, enhancing virtual try-on tool responsiveness by 20%  
 ---
 
-## <i class="fas fa-microchip"></i> Machine Learning Intern  
+## <h2> Machine Learning Intern </h2> 
 *Advance Automation & Robotics Lab (ARAL), Pakistan*  
 - Contributed to the Prosthetic Arm project by implementing SVM classification using MATLAB and Python  
 - Processed muscle signal data using FMG sensors for motion intent recognition  
 - Utilized scikit-learn, pandas, and TensorFlow for data analysis and predictive modeling  
 ---
 
-## <i class="fas fa-brain"></i> Artificial Intelligence Intern  
+## <h2>Artificial Intelligence Intern </h2> 
 *OPENAIMP, United States*  
 - Engineered and deployed AI chatbots using RASA for enhanced user engagement  
 - Designed 15 distinct conversational flows, improving interaction efficiency  
