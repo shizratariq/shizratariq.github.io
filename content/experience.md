@@ -1,7 +1,7 @@
 ---
 title: "Experience"
-date: 2023-03-15  # Update with current date
-draft: false  # Set to 'false' when ready to publish
+layout: "page"
+url: "/experience/"
 ---
 
 ## Graduate Research Assistant  
