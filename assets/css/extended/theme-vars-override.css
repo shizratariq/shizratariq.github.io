@@ -56,4 +56,14 @@ nav a[href="{{ site.BaseURL }}/"] {
 .post-title{
   font-size: 1.8rem;
 }
-  
+
+/* Hide the "Home" title on all pages except the homepage */
+.page-title {
+    display: none;
+}
+
+/* Show it only on the homepage */
+.home .page-title {
+    display: block;
+}
+
