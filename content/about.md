@@ -10,9 +10,8 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 
 Feel free to reach out! 😃
 
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+<div class="education-interests">
+  <div class="education">
     <h2>Education</h2>
     <ul>
       <li>Master’s in Robotics, University of Minnesota</li>
@@ -20,7 +19,7 @@ Feel free to reach out! 😃
     </ul>
   </div>
   
-  <div style="width: 48%;">
+  <div class="interests">
     <h2>Interests</h2>
     <ul>
       <li>Robotics</li>
