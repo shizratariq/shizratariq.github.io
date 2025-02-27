@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shizratariq.github.io/theplaybook/experience/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shizratariq.github.io/theplaybook/categories/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
@@ -32,6 +23,9 @@
     <loc>https://shizratariq.github.io/theplaybook/tags/goroutine/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
+    <loc>https://shizratariq.github.io/theplaybook/</loc>
+    <lastmod>2023-09-09T13:51:42-04:00</lastmod>
+  </url><url>
     <loc>https://shizratariq.github.io/theplaybook/tags/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
@@ -50,8 +44,12 @@
     <loc>https://shizratariq.github.io/theplaybook/categories/tutorial/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
+    <loc>https://shizratariq.github.io/theplaybook/experience/experience/</loc>
+  </url><url>
     <loc>https://shizratariq.github.io/theplaybook/about/</loc>
   </url><url>
     <loc>https://shizratariq.github.io/theplaybook/archives/</loc>
+  </url><url>
+    <loc>https://shizratariq.github.io/theplaybook/experience/</loc>
   </url>
 </urlset>
