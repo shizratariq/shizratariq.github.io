@@ -9,7 +9,6 @@ I’m a Master’s student in Robotics at the University of Minnesota, passionat
 Beyond research, I have experience in machine learning, computer vision, and AI-driven prosthetics. I enjoy working on cutting-edge robotics applications that push the boundaries of automation and human-robot interaction.
 
 Feel free to reach out! 😃
-    
 
 {% raw %}
 <div style="display: flex; justify-content: space-between;">
