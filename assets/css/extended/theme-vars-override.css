@@ -66,27 +66,13 @@ nav a[href="{{ site.BaseURL }}/"] {
   font-size: 1.8rem;
 }
 
-/* Hide the "Home" title on all pages except the homepage */
-.page-title {
-    display: none;
-}
-
-/* Show it only on the homepage */
-.home .page-title {
-    display: block;
-}
-
-.first-entry.home-info .entry-header h1 {
-    display: none !important;
-}
-
 /* Custom Styles for Flex Layout on About Page */
-.page-about div {
+.page-about .education-interests {
   display: flex;
   justify-content: space-between;
 }
 
-.page-about div > div {
+.page-about .education,
+.page-about .interests {
   width: 48%;
 }
-
