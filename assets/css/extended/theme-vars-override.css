@@ -71,5 +71,5 @@ nav a[href="{{ site.BaseURL }}/"] {
 }
 
 .first-entry.home-info .entry-header h1 {
-    display: none;
+    display: none !important;
 }
