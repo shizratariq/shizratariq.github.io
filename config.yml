@@ -31,7 +31,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: "Welcome! \U0001F44B"
     subtitle: "This is the website of **Shizra Tariq**. a Robotics graduate student
     passionate about AI, machine learning, and biomedical robotics. I work on developing
