@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 layout: "page"
-url: "/experience/"
+permalink: "/experience/"
 ---
 
 ## Graduate Research Assistant  
