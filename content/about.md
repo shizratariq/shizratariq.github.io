@@ -11,21 +11,23 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 Feel free to reach out! 😃
     
 
+{% raw %}
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
     <h2>Education</h2>
     <ul>
-      <li>🎓 Master’s in Robotics, University of Minnesota</li>
-      <li>🎓 Bachelor’s in Computer Engineering</li>
+      <li>Master’s in Robotics, University of Minnesota</li>
+      <li>Bachelor’s in Computer Engineering</li>
     </ul>
   </div>
   
   <div style="width: 48%;">
     <h2>Interests</h2>
     <ul>
-      <li>🤖 Robotics</li>
-      <li>👀 Computer Vision</li>
-      <li>🧠 AI/ML</li>
+      <li>Robotics</li>
+      <li>Computer Vision</li>
+      <li>AI/ML</li>
     </ul>
   </div>
 </div>
+{% endraw %}
