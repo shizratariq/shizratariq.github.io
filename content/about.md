@@ -10,21 +10,12 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 
 Feel free to reach out! 😃
 
-<div class="education-interests">
-  <div class="education">
-    <h2>Education</h2>
-    <ul>
-      <li>Master’s in Robotics, University of Minnesota</li>
-      <li>Bachelor’s in Computer Engineering</li>
-    </ul>
-  </div>
-  
-  <div class="interests">
-    <h2>Interests</h2>
-    <ul>
-      <li>Robotics</li>
-      <li>Computer Vision</li>
-      <li>AI/ML</li>
-    </ul>
-  </div>
-</div>
+## Education | Interests
+- **Education**:  
+  - Master’s in Robotics, University of Minnesota
+  - Bachelor’s in Computer Engineering
+
+- **Interests**:  
+  - Robotics  
+  - Computer Vision  
+  - AI/ML
