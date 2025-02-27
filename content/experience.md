@@ -4,7 +4,7 @@ layout: "page"
 permalink: "/experience/"
 ---
 
-## <i class="fas fa-microscope"></i> Research Assistant  
+<h2>Research Assistant #</h2> <!-- Remove trailing # -->
 *College of Science and Engineering, University of Minnesota*  
 - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2  
 - Mapped singular configurations in C-space to improve motion planning  
