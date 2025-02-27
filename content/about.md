@@ -10,8 +10,8 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
 
 Feel free to reach out! 😃
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="width: 48%;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%; margin-right: 4%;"> <!-- Add margin to the right -->
     <h2>Education</h2>
     <ul>
       <li>Master’s in Robotics, University of Minnesota</li>
