@@ -79,3 +79,13 @@ nav a[href="{{ site.BaseURL }}/"] {
 .first-entry.home-info .entry-header h1 {
     display: none !important;
 }
+
+/* Custom Styles for Flex Layout */
+div {
+  display: flex;
+  justify-content: space-between;
+}
+
+div > div {
+  width: 48%;
+}
