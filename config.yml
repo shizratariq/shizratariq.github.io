@@ -5,6 +5,11 @@ theme: PaperMod
 
 enableEmoji: true
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
 
 params:
   author: Shizra Tariq
