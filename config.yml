@@ -4,6 +4,7 @@ title: Shizra Tariq
 theme: PaperMod
 
 enableEmoji: true
+markdown: kramdown
 
 params:
   author: Shizra Tariq
