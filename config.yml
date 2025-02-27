@@ -5,7 +5,10 @@ theme: PaperMod
 
 enableEmoji: true
 markup:
-  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true  # Allows HTML rendering inside Markdown files
+
 
 
 params:
