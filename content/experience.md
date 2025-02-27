@@ -5,8 +5,7 @@ permalink: "/experience/"
 ---
 
 ## <h2>Research Assistant </h2> 
-
-*College of Science and Engineering, University of Minnesota*  
+<span style="font-size: 0.85em;">*College of Science and Engineering, University of Minnesota*</span>  
 - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2  
 - Mapped singular configurations in C-space to improve motion planning  
 - Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment  
