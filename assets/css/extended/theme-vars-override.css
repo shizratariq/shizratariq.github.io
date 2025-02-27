@@ -43,3 +43,13 @@ nav a[href="{{ site.BaseURL }}/"] {
 .post-content ul, .post-content ol {
   font-size: 0.9rem;
 }
+
+/* If using profile mode title */
+.profile-mode .profile-title {
+  font-size: 1.8rem !important; /* Adjust this value */
+}
+
+/* If using the site title in header */
+.site-title {
+  font-size: 1.2rem !important;
+}
