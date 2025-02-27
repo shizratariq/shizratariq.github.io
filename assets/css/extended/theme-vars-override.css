@@ -41,7 +41,7 @@ nav a[href="{{ site.BaseURL }}/"] {
 
 /* Adjust list items */
 .post-content ul, .post-content ol {
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 /* If using profile mode title */
