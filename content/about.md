@@ -19,3 +19,22 @@ Feel free to reach out! 😃
   - Robotics  
   - Computer Vision  
   - AI/ML
+ 
+
+<table>
+  <tr>
+    <th>Education</th>
+    <th>Interests</th>
+  </tr>
+  <tr>
+    <td>
+      - Master’s in Robotics, University of Minnesota<br>
+      - Bachelor’s in Computer Engineering
+    </td>
+    <td>
+      - Robotics<br>
+      - Computer Vision<br>
+      - AI/ML
+    </td>
+  </tr>
+</table>
