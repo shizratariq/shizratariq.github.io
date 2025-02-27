@@ -44,8 +44,8 @@ nav a[href="{{ site.BaseURL }}/"] {
 }
 
 /* Adjust headings proportionally */
-.post-content h1 { font-size: 1.6rem; }
-.post-content h2 { font-size: 1.4rem; }
+.post-content h1 { font-size: 1.4rem; }
+.post-content h2 { font-size: 1.2rem; }
 .post-content h3 { font-size: 1.2rem; }
 
 /* Adjust list items */
@@ -64,15 +64,4 @@ nav a[href="{{ site.BaseURL }}/"] {
 }
 .post-title{
   font-size: 1.8rem;
-}
-
-/* Custom Styles for Flex Layout on About Page */
-.page-about .education-interests {
-  display: flex;
-  justify-content: space-between;
-}
-
-.page-about .education,
-.page-about .interests {
-  width: 48%;
 }
