@@ -24,8 +24,10 @@
 .breadcrumb, .post-meta {
   display: none;
 }
-.breadcrumb-home, .site-title {
+.breadcrumbs a[href="https://shizratariq.github.io/theplaybook/"] {
     display: none !important;
+}
+
 }
 
 nav a[href="/"] {
