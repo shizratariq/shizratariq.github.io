@@ -24,6 +24,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  disableHomeMenu: true
 
 
    passionate about AI, machine learning, and biomedical robotics. I work on developing intelligent robotic systems, AI-driven prosthetics, and autonomous navigation solutions.
