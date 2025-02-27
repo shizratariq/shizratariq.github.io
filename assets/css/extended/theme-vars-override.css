@@ -24,3 +24,7 @@
 .breadcrumb, .post-meta {
   display: none;
 }
+nav a[href="/"], 
+nav a[href="{{ site.BaseURL }}/"] { 
+    display: none !important;
+}
