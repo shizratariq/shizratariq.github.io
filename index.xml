@@ -49,5 +49,14 @@ Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with 
 Led Cross-Functional Agile (CSA) team for international development, QA, and project management Engineered scalable database architectures, optimizing data retrieval speed by 30% Fine-tuned complex queries, ensuring complete data accuracy and high integrity across all datasets Research Assistant Abel &amp;amp; Mercer Co.</description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://shizratariq.github.io/theplaybook/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/theplaybook/project/</guid>
+      <description> Bimanual manipulation using Diffusion Policy 🔗 Implemented and trained a diffusion policy for bottle uncorking task using a dual UR5e arm setup. Utilized ROS for data collection and PyTorch for model implementation. Achieved an average task completion rate of 74.7% across 30 rollouts. </description>
+    </item>
+    
   </channel>
 </rss>
