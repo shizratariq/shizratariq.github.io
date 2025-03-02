@@ -29,8 +29,8 @@ permalink: /projects/
            style="display: inline-block; transition: transform 0.2s ease;"
            onmouseover="this.style.transform='scale(1.05)';"
            onmouseout="this.style.transform='scale(1)';">
-            <img src=" "images/p1.png" 
-                 alt="GitHub Repository" 
+            <img src="/images/p1.png" 
+                 alt="Project Preview" 
                  style="max-width: 560px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         </a>
     </div>
