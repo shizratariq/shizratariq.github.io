@@ -1,15 +1,8 @@
-
-
-Replace YouTube with GitHub Repository Link
 ---
 title: "Projects"
 layout: default
 permalink: /projects/
 ---
-
-## Testing the Future: Open-Source vs Proprietary AI  
-**Description:** Comparing the performance of open-source and proprietary AI models on real-world problems.  
-**Key Aspects:** Model evaluation, benchmarking, real-world application testing.  
 
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
