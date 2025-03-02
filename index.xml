@@ -56,7 +56,8 @@ Led Cross-Functional Agile (CSA) team for international development, QA, and pro
       
       <guid>https://shizratariq.github.io/theplaybook/projects/</guid>
       <description>Testing the Future: Open-Source vs Proprietary AI Description: Comparing the performance of open-source and proprietary AI models on real-world problems.
-Key Aspects: Model evaluation, benchmarking, real-world application testing.</description>
+Key Aspects: Model evaluation, benchmarking, real-world application testing.
+Bimanual manipulation using Diffusion Policy 🔗 Implemented and trained a diffusion policy for bottle uncorking task using a dual UR5e arm setup. Utilized ROS for data collection and PyTorch for model implementation. Achieved an average task completion rate of 74.7% across 30 rollouts.</description>
     </item>
     
   </channel>
