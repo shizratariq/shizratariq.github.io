@@ -53,7 +53,6 @@ permalink: /projects/
         </div>
 </div>
 ---
-
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
@@ -79,7 +78,6 @@ permalink: /projects/
         </div>
 </div>
 ---
-
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
