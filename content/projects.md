@@ -22,9 +22,8 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="https://github.com/your-repository" target="_blank">
-                <img src= https://github.com/user-attachments/assets/a017d79f-1a68-4e46-8de8-c54686186e4c alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src= https://github.com/user-attachments/assets/a017d79f-1a68-4e46-8de8-c54686186e4c](https://github.com/user-attachments/assets/a241002d-1e30-4e9d-ac42-8e8d7268ba81 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
 
-    
