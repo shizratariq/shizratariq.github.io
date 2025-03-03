@@ -48,9 +48,8 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="https://github.com/shizratariq/Breast-Cancer-Detection" target="_blank">
-                <img src= https://github.com/user-attachments/assets/0783a4fd-46e2-4165-bb97-8bb66a20f1c1 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src= https://github.com/user-attachments/assets/965ce6ab-afae-48f5-917c-4b4acd009897 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
-
 
