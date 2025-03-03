@@ -52,6 +52,7 @@ permalink: /projects/
             </a>
         </div>
 </div>
+              
 ---
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
@@ -73,10 +74,11 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="https://github.com/anwesha-umn/Super_resolution_object_detection" target="_blank">
-                <img src= https://github.com/user-attachments/assets/da47350e-ed69-46f2-8390-0cadbffb73a5 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src= https://github.com/user-attachments/assets/cfb2e808-574e-4ed2-8ac2-62b2c98a1d27 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
+              
 ---
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
@@ -98,7 +100,9 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="https://github.com/anwesha-umn/TranscribeAI_subtitle_generation" target="_blank">
-                <img src= https://github.com/user-attachments/assets/4b534733-2c86-48e8-b8dd-7f0cd45d3fda alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src= https://github.com/user-attachments/assets/1f43871e-df3a-4946-a2b9-22edc3fd0c6c alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
+
+
