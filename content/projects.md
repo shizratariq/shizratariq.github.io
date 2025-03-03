@@ -30,3 +30,32 @@ permalink: /projects/
         </div>
 </div>
 
+---
+  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="https://github.com/shizratariq/Breast-Cancer-Detection" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+               Breast Cancer Detection 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Developed a mammography-based breast cancer detection system utilizing multiple machine learning techniques.</li>
+                <li>Implemented Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Neural Networks, and XGBoost for classification.</li>
+                <li>Achieved <strong>96.49% accuracy</strong>, demonstrating high model reliability.</li>
+                <li>Attained <strong>100% precision</strong>, ensuring zero false positives in detection.</li>
+                <li>Recorded <strong>92.86% recall</strong>, effectively identifying positive cases.</li>
+                <li>Secured a <strong>95.12% F1-score</strong>, balancing precision and recall.</li>
+                <li>Obtained an <strong>AUC of 0.996</strong>, indicating excellent model performance.</li>
+            </ul>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="https://github.com/shizratariq/Breast-Cancer-Detection" target="_blank">
+                <img src= https://github.com/user-attachments/assets/0783a4fd-46e2-4165-bb97-8bb66a20f1c1 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
+
+
