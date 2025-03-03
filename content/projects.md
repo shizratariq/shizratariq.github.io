@@ -38,7 +38,7 @@ permalink: /projects/
               style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
               onmouseover="this.style.color='#5555FA';" 
               onmouseout="this.style.color='#B7D8FA';">
-               Breast Cancer Detection 🔗
+              Breast Cancer Detection 🔗
             </a>
             </h3>
             <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
@@ -52,4 +52,55 @@ permalink: /projects/
             </a>
         </div>
 </div>
+---
 
+  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="https://github.com/anwesha-umn/Super_resolution_object_detection" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              SuperResolution and Object Detection on Remote Sensing Imagery 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Implemented <strong>SRGAN (4x super-resolution)</strong> to enhance image quality.</li>
+                <li>Improved <strong>Peak Signal-to-Noise Ratio (PSNR)</strong> and <strong>Structural Similarity Index (SSIM)</strong> metrics.</li>
+                <li>Achieved a <strong>+18.7% increase in mean Average Precision (mAP)</strong> for aerial object detection.</li>
+                <li>Boosted mAP from <strong>49.6% to 68.3%</strong> using enhanced images.</li>
+                <li>Utilized <strong>YOLOv11-OBB</strong> for detecting <strong>8 object classes</strong> in the <strong>DOTA dataset</strong>.</li>
+                <li>Enhanced object detection accuracy by improving input image resolution.</li>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="https://github.com/anwesha-umn/Super_resolution_object_detection" target="_blank">
+                <img src= https://github.com/user-attachments/assets/da47350e-ed69-46f2-8390-0cadbffb73a5 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
+---
+
+  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="https://github.com/anwesha-umn/TranscribeAI_subtitle_generation.git" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              Accurate Subtitle Generation in Videos 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Implemented <strong>SRGAN (4x super-resolution)</strong> to enhance image quality.</li>
+                <li>Improved <strong>Peak Signal-to-Noise Ratio (PSNR)</strong> and <strong>Structural Similarity Index (SSIM)</strong> metrics.</li>
+                <li>Achieved a <strong>+18.7% increase in mean Average Precision (mAP)</strong> for aerial object detection.</li>
+                <li>Boosted mAP from <strong>49.6% to 68.3%</strong> using enhanced images.</li>
+                <li>Utilized <strong>YOLOv11-OBB</strong> for detecting <strong>8 object classes</strong> in the <strong>DOTA dataset</strong>.</li>
+                <li>Enhanced object detection accuracy by improving input image resolution.</li>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="https://github.com/anwesha-umn/TranscribeAI_subtitle_generation" target="_blank">
+                <img src= https://github.com/user-attachments/assets/4b534733-2c86-48e8-b8dd-7f0cd45d3fda alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
