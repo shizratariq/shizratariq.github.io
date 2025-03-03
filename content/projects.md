@@ -44,12 +44,7 @@ permalink: /projects/
             <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
                 <li>Developed a mammography-based breast cancer detection system utilizing multiple machine learning techniques.</li>
                 <li>Implemented Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Neural Networks, and XGBoost for classification.</li>
-                <li>Achieved <strong>96.49% accuracy</strong>, demonstrating high model reliability.</li>
-                <li>Attained <strong>100% precision</strong>, ensuring zero false positives in detection.</li>
-                <li>Recorded <strong>92.86% recall</strong>, effectively identifying positive cases.</li>
-                <li>Secured a <strong>95.12% F1-score</strong>, balancing precision and recall.</li>
-                <li>Obtained an <strong>AUC of 0.996</strong>, indicating excellent model performance.</li>
-            </ul>
+                <li>achieved 96.49% accuracy, 100% precision, 92.86% recall, 95.12% F1-score, and 0.996 AUC.</li>
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="https://github.com/shizratariq/Breast-Cancer-Detection" target="_blank">
