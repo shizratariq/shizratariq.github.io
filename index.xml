@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shizra Tariq</title>
-    <link>https://shizratariq.github.io/theplaybook/</link>
+    <link>https://shizratariq.github.io/</link>
     <description>Recent content on Shizra Tariq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/theplaybook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demystifying Goroutines - Channels, WaitGroup, Cancellation</title>
-      <link>https://shizratariq.github.io/theplaybook/docs/goroutines/</link>
+      <link>https://shizratariq.github.io/docs/goroutines/</link>
       <pubDate>Sat, 09 Sep 2023 13:51:42 -0400</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/docs/goroutines/</guid>
+      <guid>https://shizratariq.github.io/docs/goroutines/</guid>
       <description>If you have rough ideas on how goroutines work but never took the time to learn the idiomatic approach and why we want to run goroutines certain way, this blog will be of help. In this post, I will be summarizing what I have learned from Chapter 8: Goroutines and Channels of the Go Programming Language book as well as The Go Blog on Go Concurrency Patterns.
 This blog post will be helpful if you are not familiar with any of the below:</description>
     </item>
     
     <item>
       <title>Deploying a Blog Powered by Hugo to Github Pages w/ Custom Domain via Github Actions</title>
-      <link>https://shizratariq.github.io/theplaybook/docs/deploy-hugo-to-github-pages/</link>
+      <link>https://shizratariq.github.io/docs/deploy-hugo-to-github-pages/</link>
       <pubDate>Sun, 19 Feb 2023 11:42:25 -0500</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/docs/deploy-hugo-to-github-pages/</guid>
+      <guid>https://shizratariq.github.io/docs/deploy-hugo-to-github-pages/</guid>
       <description>&lt;p&gt;This post provides a step-by-step guide on how you can create this blog powered by Hugo, configure Github Actions to publish to Github Pages, and link custom domain to your Github Pages.&lt;/p&gt;
 &lt;p&gt;This guide is also available on Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=_QSr2_pxIJs&amp;amp;ab_channel=dhij&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://shizratariq.github.io/theplaybook/about/</link>
+      <link>https://shizratariq.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/about/</guid>
+      <guid>https://shizratariq.github.io/about/</guid>
       <description>I’m a Master’s student in Robotics at the University of Minnesota, passionate about intelligent robotic systems and AI-driven solutions. My research focuses on robotic surgery for histotripsy, where I work with the UR5e robotic arm using ROS2 and MoveIt2 to improve motion planning and ensure collision-free navigation in constrained environments.
 Beyond research, I have experience in machine learning, computer vision, and AI-driven prosthetics. I enjoy working on cutting-edge robotics applications that push the boundaries of automation and human-robot interaction.</description>
     </item>
@@ -40,10 +40,10 @@ Beyond research, I have experience in machine learning, computer vision, and AI-
     
     <item>
       <title>Experience</title>
-      <link>https://shizratariq.github.io/theplaybook/experience/</link>
+      <link>https://shizratariq.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/experience/</guid>
+      <guid>https://shizratariq.github.io/experience/</guid>
       <description>Research Assistant College of Science and Engineering, University of Minnesota
 Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2 Mapped singular configurations in C-space to improve motion planning Developed path-planning algorithms for constrained and unconstrained trajectories, ensuring collision avoidance in an aquatic environment Technical Project Manager Quantum-h, UK
 Led Cross-Functional Agile (CSA) team for international development, QA, and project management Engineered scalable database architectures, optimizing data retrieval speed by 30% Fine-tuned complex queries, ensuring complete data accuracy and high integrity across all datasets Research Assistant Abel &amp;amp; Mercer Co.</description>
@@ -51,10 +51,10 @@ Led Cross-Functional Agile (CSA) team for international development, QA, and pro
     
     <item>
       <title>Projects</title>
-      <link>https://shizratariq.github.io/theplaybook/projects/</link>
+      <link>https://shizratariq.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/projects/</guid>
+      <guid>https://shizratariq.github.io/projects/</guid>
       <description>Turtlebot3 RRT Pathfinder 🔗 Developed and implemented the Rapidly-Exploring Random Tree (RRT) algorithm for autonomous maze navigation in Gazebo simulations. Optimized motor command accuracy to enhance path-following precision. Addressed Lidar inconsistencies by refining sensor data processing for improved obstacle detection. Achieved a 40% success rate in maze traversal under simulated conditions. Recorded a fastest traversal time of 1 minute and 42 seconds. Improved overall navigation efficiency through iterative testing and parameter tuning.</description>
     </item>
     

@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shizratariq.github.io/theplaybook/categories/</loc>
+    <loc>https://shizratariq.github.io/categories/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/docs/goroutines/</loc>
+    <loc>https://shizratariq.github.io/docs/goroutines/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/docs/</loc>
+    <loc>https://shizratariq.github.io/docs/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/categories/go/</loc>
+    <loc>https://shizratariq.github.io/categories/go/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/go-channel/</loc>
+    <loc>https://shizratariq.github.io/tags/go-channel/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/golang/</loc>
+    <loc>https://shizratariq.github.io/tags/golang/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/goroutine/</loc>
+    <loc>https://shizratariq.github.io/tags/goroutine/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/</loc>
+    <loc>https://shizratariq.github.io/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/</loc>
+    <loc>https://shizratariq.github.io/tags/</loc>
     <lastmod>2023-09-09T13:51:42-04:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/docs/deploy-hugo-to-github-pages/</loc>
+    <loc>https://shizratariq.github.io/docs/deploy-hugo-to-github-pages/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/github-actions/</loc>
+    <loc>https://shizratariq.github.io/tags/github-actions/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/github-pages/</loc>
+    <loc>https://shizratariq.github.io/tags/github-pages/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/tags/hugo/</loc>
+    <loc>https://shizratariq.github.io/tags/hugo/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/categories/tutorial/</loc>
+    <loc>https://shizratariq.github.io/categories/tutorial/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/about/</loc>
+    <loc>https://shizratariq.github.io/about/</loc>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/archives/</loc>
+    <loc>https://shizratariq.github.io/archives/</loc>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/experience/</loc>
+    <loc>https://shizratariq.github.io/experience/</loc>
   </url><url>
-    <loc>https://shizratariq.github.io/theplaybook/projects/</loc>
+    <loc>https://shizratariq.github.io/projects/</loc>
   </url>
 </urlset>

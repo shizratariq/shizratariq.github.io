@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on Shizra Tariq</title>
-    <link>https://shizratariq.github.io/theplaybook/docs/</link>
+    <link>https://shizratariq.github.io/docs/</link>
     <description>Recent content in Docs on Shizra Tariq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/theplaybook/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demystifying Goroutines - Channels, WaitGroup, Cancellation</title>
-      <link>https://shizratariq.github.io/theplaybook/docs/goroutines/</link>
+      <link>https://shizratariq.github.io/docs/goroutines/</link>
       <pubDate>Sat, 09 Sep 2023 13:51:42 -0400</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/docs/goroutines/</guid>
+      <guid>https://shizratariq.github.io/docs/goroutines/</guid>
       <description>If you have rough ideas on how goroutines work but never took the time to learn the idiomatic approach and why we want to run goroutines certain way, this blog will be of help. In this post, I will be summarizing what I have learned from Chapter 8: Goroutines and Channels of the Go Programming Language book as well as The Go Blog on Go Concurrency Patterns.
 This blog post will be helpful if you are not familiar with any of the below:</description>
     </item>
     
     <item>
       <title>Deploying a Blog Powered by Hugo to Github Pages w/ Custom Domain via Github Actions</title>
-      <link>https://shizratariq.github.io/theplaybook/docs/deploy-hugo-to-github-pages/</link>
+      <link>https://shizratariq.github.io/docs/deploy-hugo-to-github-pages/</link>
       <pubDate>Sun, 19 Feb 2023 11:42:25 -0500</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/docs/deploy-hugo-to-github-pages/</guid>
+      <guid>https://shizratariq.github.io/docs/deploy-hugo-to-github-pages/</guid>
       <description>&lt;p&gt;This post provides a step-by-step guide on how you can create this blog powered by Hugo, configure Github Actions to publish to Github Pages, and link custom domain to your Github Pages.&lt;/p&gt;
 &lt;p&gt;This guide is also available on Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=_QSr2_pxIJs&amp;amp;ab_channel=dhij&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>

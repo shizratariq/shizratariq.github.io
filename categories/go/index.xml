@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>go on Shizra Tariq</title>
-    <link>https://shizratariq.github.io/theplaybook/categories/go/</link>
+    <link>https://shizratariq.github.io/categories/go/</link>
     <description>Recent content in go on Shizra Tariq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/theplaybook/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demystifying Goroutines - Channels, WaitGroup, Cancellation</title>
-      <link>https://shizratariq.github.io/theplaybook/docs/goroutines/</link>
+      <link>https://shizratariq.github.io/docs/goroutines/</link>
       <pubDate>Sat, 09 Sep 2023 13:51:42 -0400</pubDate>
       
-      <guid>https://shizratariq.github.io/theplaybook/docs/goroutines/</guid>
+      <guid>https://shizratariq.github.io/docs/goroutines/</guid>
       <description>If you have rough ideas on how goroutines work but never took the time to learn the idiomatic approach and why we want to run goroutines certain way, this blog will be of help. In this post, I will be summarizing what I have learned from Chapter 8: Goroutines and Channels of the Go Programming Language book as well as The Go Blog on Go Concurrency Patterns.
 This blog post will be helpful if you are not familiar with any of the below:</description>
     </item>
