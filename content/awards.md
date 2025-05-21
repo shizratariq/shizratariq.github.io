@@ -14,6 +14,8 @@ draft: false
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fulbright_logo.svg/512px-Fulbright_logo.svg.png" alt="Fulbright Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/a7124323-857d-48b8-a4f4-bb80e225cd73" alt="Fulbright Logo" width="150"/>
+
 </div>
 
 
