@@ -34,7 +34,7 @@ draft: false
 **Description:** Selected among 37 female finalists from Pakistan to represent the country in a cultural exchange program in the U.S.
 
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 1.5rem 0;">
-  <img src="https://github.com/user-attachments/assets/1c40a8cb-f44a-40c3-88bb-e10b8fb664b2" alt="IREX Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/1c40a8cb-f44a-40c3-88bb-e10b8fb664b2" alt="IREX Logo" width="100"/>
   <img src="https://www.usefp.org/assets/img/logo.png" alt="USEFP Logo" width="100"/>
 </div>
 
@@ -55,7 +55,7 @@ draft: false
 **Description:** Won first prize for an innovative hardware prototype and demonstration.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://kfueit.edu.pk/uploads/4/ueit-logo-r.png" alt="Project Award Icon" width="60"/>
+  <img src="https://kfueit.edu.pk/uploads/4/ueit-logo-r.png" alt="Project Award Icon" width="100"/>
 </div>
 
 ---
@@ -65,7 +65,7 @@ draft: false
 **Description:** Earned recognition for scientific innovation in a nationwide competition.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://github.com/user-attachments/assets/11c7118e-f695-47dd-bc7b-ecee5a8d5b45" alt="GIKI Logo" width="90"/>
+  <img src="https://github.com/user-attachments/assets/11c7118e-f695-47dd-bc7b-ecee5a8d5b45" alt="GIKI Logo" width="100"/>
 </div>
 
 ---
