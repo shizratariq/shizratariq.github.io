@@ -16,7 +16,7 @@ draft: false
   </tr>
 </table>
 
----
+
 
 ## 🧰 Tools & Frameworks
 
@@ -35,7 +35,7 @@ draft: false
   </tr>
 </table>
 
----
+
 
 ## 📜 Certificates
 
@@ -48,4 +48,5 @@ draft: false
   </tr>
 </table>
 
-> 🌟 *These skills reflect my background in robotics, AI, and software engineering. Check out my [projects](/projects) to see them in action!*
+---
+🌟 *These skills reflect my background in robotics, AI, and software engineering. Check out my [projects](/projects) to see them in action!*
