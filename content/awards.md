@@ -65,10 +65,9 @@ draft: false
 **Description:** Earned recognition for scientific innovation in a nationwide competition.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/GIKI_Logo.svg/512px-GIKI_Logo.svg.png" alt="GIKI Logo" width="90"/>
+  <img src="https://github.com/user-attachments/assets/11c7118e-f695-47dd-bc7b-ecee5a8d5b45" alt="GIKI Logo" width="90"/>
 </div>
 
 ---
 
-> ✨ Each award represents a step in my journey of learning, leadership, and impact.
 
