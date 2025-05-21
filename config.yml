@@ -97,18 +97,18 @@ menu:
     #  name: Certifications
      # url: /certifications/
       #weight: 50
-   # - identifier: awards
-    #  name: Awards
-     # url: /awards/
-      #weight: 60
+    - identifier: awards
+      name: Awards
+      url: /awards/
+      weight: 60
     #- identifier: blogs
      # name: Blogs
       #url: /blogs/
       #weight: 70
-    #- identifier: extracurricular
-     # name: Extracurricular
-      #url: /extracurricular/
-      #weight: 80
+    - identifier: extracurricular
+      name: Extracurricular
+      url: /extracurricular/
+      weight: 80
     - identifier: cv
       name: CV
       url: /cv/
