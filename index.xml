@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Skills</title>
-      <link>https://shizratariq.github.io/skills/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shizratariq.github.io/skills/</guid>
-      <description>🛠 Technical Languages &amp;amp; Frameworks Python C++ JavaScript MATLAB ROS Git Linux Docker PyTorch OpenCV NumPy Pandas ✨ These are tools I use regularly across robotics, AI, and full-stack projects. Explore my projects to see them in action.</description>
-    </item>
-    
-    <item>
       <title>Demystifying Goroutines - Channels, WaitGroup, Cancellation</title>
       <link>https://shizratariq.github.io/docs/goroutines/</link>
       <pubDate>Sat, 09 Sep 2023 13:51:42 -0400</pubDate>
@@ -65,6 +56,15 @@ Led Cross-Functional Agile (CSA) team for international development, QA, and pro
       
       <guid>https://shizratariq.github.io/projects/</guid>
       <description>Turtlebot3 RRT Pathfinder 🔗 Developed and implemented the Rapidly-Exploring Random Tree (RRT) algorithm for autonomous maze navigation in Gazebo simulations. Optimized motor command accuracy to enhance path-following precision. Addressed Lidar inconsistencies by refining sensor data processing for improved obstacle detection. Achieved a 40% success rate in maze traversal under simulated conditions. Recorded a fastest traversal time of 1 minute and 42 seconds. Improved overall navigation efficiency through iterative testing and parameter tuning.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://shizratariq.github.io/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/skills/</guid>
+      <description>👨‍💻 Programming Languages Python C/C++ C# JavaScript MATLAB SQL 🧰 Tools &amp;amp; Frameworks Git GitHub Linux CUDA PyTorch OpenCV PyBullet JIRA 📜 Certificates Python for AI Convolutional Neural Networks SQL </description>
     </item>
     
   </channel>
