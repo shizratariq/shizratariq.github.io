@@ -44,4 +44,8 @@ draft: false
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python for AI</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>Convolutional Neural Networks</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL</td>
-    <td align="center"><img src="ht
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/><br>Machine Learning</td>
+  </tr>
+</table>
+
+> 🌟 *These skills reflect my background in robotics, AI, and software engineering. Check out my [projects](/projects) to see them in action!*
