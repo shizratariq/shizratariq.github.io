@@ -4,29 +4,27 @@ date: 2025-05-21
 draft: false
 ---
 
-## Programming Languages
-- **Python** – Strong expertise in AI/ML, robotics, and scripting
-- **C/C++** – Used in embedded systems and robotics projects
-- **C#** – Application development
-- **JavaScript** – For frontend and basic scripting
-- **MATLAB** – Signal processing and machine learning
-- **SQL** – Database management and querying
+## 🛠 Technical Languages & Frameworks
 
-## Tools & Frameworks
-- **Git & GitHub** – Version control and collaboration
-- **Linux** – Development environment, scripting, and system ops
-- **CUDA** – GPU-based computation for deep learning
-- **PyTorch** – Deep learning models and experimentation
-- **OpenCV** – Computer vision and image processing
-- **PyBullet** – Robotics simulation
-- **JIRA** – Project and task management
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/><br>MATLAB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40"/><br>ROS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br>OpenCV</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+  </tr>
+</table>
 
-## Certificates
-- **Machine Learning** – Supervised and unsupervised learning
-- **Python for AI** – Applied AI techniques using Python
-- **Convolutional Neural Networks** – Deep learning specialization
-- **SQL** – Advanced database querying
-
----
-
-*Feel free to explore my [projects](/projects) to see how I’ve applied these skills in real-world scenarios.*
+> ✨ *These are tools I use regularly across robotics, AI, and full-stack projects. Explore my [projects](/projects) to see them in action.*
