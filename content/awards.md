@@ -13,10 +13,7 @@ draft: false
 **Description:** Selected for the prestigious Fulbright Scholarship to pursue graduate studies in the United States.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="/assets/images/fulb.png" alt="Fulbright Logo" width="120"/>
-  <br>
-  <img src="/assets/images/fulb.png" alt="Fulbright Certificate" style="max-width: 80%; margin-top: 1rem; border-radius: 8px;"/>
-  <img src="/assets/images/usefp.png" alt="Fulbright Certificate" style="max-width: 80%; margin-top: 1rem; border-radius: 8px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fulbright_logo.svg/512px-Fulbright_logo.svg.png" alt="Fulbright Logo" width="150"/>
 </div>
 
 
