@@ -4,9 +4,6 @@ date: 2025-05-21
 draft: false
 ---
 
-## 🌐 Extracurricular Activities & Leadership Roles
-
----
 
 ### 🌱 Founder – Youth Revamp Organization  
 A student-led initiative focused on youth development, skill-building, and social impact.
