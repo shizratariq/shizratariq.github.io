@@ -1,21 +1,19 @@
 ---
-title: "Awards & Honors"
+title: "🏅 Awards & Honors"
 date: 2025-05-21
 draft: false
 ---
 
-## 🏅 Awards & Distinctions
 
----
 
-### 🎓 Fulbright Scholarship Program 2023
+## Fulbright Scholarship Program 2023
 **Awarded by:** Institute of International Education (IIE), USA  
 **Description:** Selected for the prestigious Fulbright Scholarship to pursue graduate studies in the United States.
 
-<div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fulbright_logo.svg/512px-Fulbright_logo.svg.png" alt="Fulbright Logo" width="150"/>
-  <img src="https://github.com/user-attachments/assets/a7124323-857d-48b8-a4f4-bb80e225cd73" alt="Fulbright Logo" width="150"/>
-
+<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 1.5rem 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Fulbright_logo.svg" alt="Fulbright Logo" width="100"/>
+  <img src="https://www.usefp.org/images/usefp-logo.png" alt="USEFP Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Institute_of_International_Education_logo.svg/512px-Institute_of_International_Education_logo.svg.png" alt="IIE Logo" width="100"/>
 </div>
 
 
