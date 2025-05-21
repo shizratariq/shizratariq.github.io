@@ -24,7 +24,7 @@ draft: false
 **Description:** Nominated for excellence in academic and community achievement.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Higher_Education_Commission_Pakistan_Logo.svg/512px-Higher_Education_Commission_Pakistan_Logo.svg.png" alt="HEC Logo" width="100"/>
+  <img src="https://github.com/user-attachments/assets/712b246f-e520-461c-8c43-d5cbd73c9e77" alt="HEC Logo" width="100"/>
 </div>
 
 ---
