@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Skills</title>
+      <link>https://shizratariq.github.io/skills/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/skills/</guid>
+      <description>Programming Languages Python – Strong expertise in AI/ML, robotics, and scripting C/C++ – Used in embedded systems and robotics projects C# – Application development JavaScript – For frontend and basic scripting MATLAB – Signal processing and machine learning SQL – Database management and querying Tools &amp;amp; Frameworks Git &amp;amp; GitHub – Version control and collaboration Linux – Development environment, scripting, and system ops CUDA – GPU-based computation for deep learning PyTorch – Deep learning models and experimentation OpenCV – Computer vision and image processing PyBullet – Robotics simulation JIRA – Project and task management Certificates Machine Learning – Supervised and unsupervised learning Python for AI – Applied AI techniques using Python Convolutional Neural Networks – Deep learning specialization SQL – Advanced database querying Feel free to explore my projects to see how I’ve applied these skills in real-world scenarios.</description>
+    </item>
+    
+    <item>
       <title>Demystifying Goroutines - Channels, WaitGroup, Cancellation</title>
       <link>https://shizratariq.github.io/docs/goroutines/</link>
       <pubDate>Sat, 09 Sep 2023 13:51:42 -0400</pubDate>
