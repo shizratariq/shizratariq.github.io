@@ -11,8 +11,8 @@ draft: false
 **Description:** Selected for the prestigious Fulbright Scholarship to pursue graduate studies in the United States.
 
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 1.5rem 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Fulbright_logo.svg" alt="Fulbright Logo" width="100"/>
-  <img src="https://www.usefp.org/images/usefp-logo.png" alt="USEFP Logo" width="100"/>
+  <img src="https://uknow.uky.edu/sites/default/files/styles/facebook/public/Fulbright_Primary_RGB_FullColor_0.png?itok=3hh4Rf8H" alt="Fulbright Logo" width="100"/>
+  <img src="https://www.usefp.org/assets/img/logo.png" alt="USEFP Logo" width="100"/>
   <img src="https://www.iie.org/wp-content/uploads/2022/12/iie-logo.png" alt="IIE Logo" width="100"/>
 </div>
 
