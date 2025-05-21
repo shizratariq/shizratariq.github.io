@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Sep 2023 13:51:42 -0400</lastBuildDate><atom:link href="https://shizratariq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CV / Resume</title>
+      <link>https://shizratariq.github.io/cv/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/cv/</guid>
+      <description>📄 My Resume You can view or download my latest resume below:
+📥 Download Resume (PDF) </description>
+    </item>
+    
+    <item>
       <title>Demystifying Goroutines - Channels, WaitGroup, Cancellation</title>
       <link>https://shizratariq.github.io/docs/goroutines/</link>
       <pubDate>Sat, 09 Sep 2023 13:51:42 -0400</pubDate>
