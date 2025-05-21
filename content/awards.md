@@ -34,7 +34,7 @@ draft: false
 **Description:** Selected among 37 female finalists from Pakistan to represent the country in a cultural exchange program in the U.S.
 
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 1.5rem 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IREX_logo.svg/512px-IREX_logo.svg.png" alt="IREX Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/1c40a8cb-f44a-40c3-88bb-e10b8fb664b2" alt="IREX Logo" width="120"/>
   <img src="https://www.usefp.org/assets/img/logo.png" alt="USEFP Logo" width="100"/>
 </div>
 
