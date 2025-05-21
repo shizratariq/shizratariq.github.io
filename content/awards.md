@@ -33,8 +33,9 @@ draft: false
 **Awarded by:** IREX, USA  
 **Description:** Selected among 37 female finalists from Pakistan to represent the country in a cultural exchange program in the U.S.
 
-<div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
+<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 1.5rem 0;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IREX_logo.svg/512px-IREX_logo.svg.png" alt="IREX Logo" width="120"/>
+  <img src="https://www.usefp.org/assets/img/logo.png" alt="USEFP Logo" width="100"/>
 </div>
 
 ---
@@ -44,7 +45,7 @@ draft: false
 **Description:** First ambassador selected from KFUEIT, recognized for tech outreach and student leadership.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://learn.microsoft.com/en-us/media/learn/student-ambassadors-program-badge.svg" alt="Microsoft Learn Student Ambassadors Logo" width="100"/>
+  <img src="https://github.com/user-attachments/assets/781f72d7-e67d-48d8-a77a-943062fc0a57" alt="Microsoft Learn Student Ambassadors Logo" width="100"/>
 </div>
 
 ---
@@ -54,7 +55,7 @@ draft: false
 **Description:** Won first prize for an innovative hardware prototype and demonstration.
 
 <div align="center" style="margin-top: 1rem; margin-bottom: 2rem;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lightbulb_icon.svg/240px-Lightbulb_icon.svg.png" alt="Project Award Icon" width="60"/>
+  <img src="https://kfueit.edu.pk/uploads/4/ueit-logo-r.png" alt="Project Award Icon" width="60"/>
 </div>
 
 ---
@@ -70,3 +71,4 @@ draft: false
 ---
 
 > ✨ Each award represents a step in my journey of learning, leadership, and impact.
+
