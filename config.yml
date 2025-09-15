@@ -37,7 +37,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "Hi! I’m **Shizra Tariq**, a Robotics graduate student with a passion for computer vision and biomedical robotics. I enjoy working on intelligent robotic systems, AI-powered prosthetics, and innovative projects at the intersection of healthcare and technology.""
+    subtitle: "Hi! I’m **Shizra Tariq**, a Robotics graduate student with a passion for computer vision and biomedical robotics. I enjoy working on intelligent robotic systems, AI-powered prosthetics, and innovative projects at the intersection of healthcare and technology."
     imageUrl: "images/shizra.jpg"
     imageWidth: 180
     imageHeight: 180
