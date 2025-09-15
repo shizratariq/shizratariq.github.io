@@ -20,6 +20,7 @@ params:
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: false
+  ShareButtons: []  
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -70,8 +71,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  ShowReadingTime: true
-  ShowShareButtons: true
 
 menu:
   main:
