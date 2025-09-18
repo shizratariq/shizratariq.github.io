@@ -6,7 +6,7 @@ permalink: "/experience/"
 
 ## <h2>Research Assistant</h2>
 <span style="font-size: 0.85em; margin-bottom: 10px; display: inline-block;">*Biosensing and Biorobotics Laboratory, University of Minnesota — Summer 2025–Present*</span>  
-- Developing a computer vision and robotics pipeline for automated probe insertion in mouse brain experiments, integrating YOLO-based detection and geometric modeling  
+- I am developing a real-time computer vision and robotics pipeline for automated probe insertion in the mouse brain to monitor neural activity. My work integrates object detection with keypoint-based pose estimation and Perspective-n-Point (PnP) to recover the full 6-DoF probe pose, while employing CNN-based classification to assess probe bending and stability under challenging visual conditions. 
 
 ---
 
