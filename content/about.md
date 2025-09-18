@@ -24,7 +24,7 @@ I love connecting with people, so feel free to reach out! 😃
     <ul>
       <li>Master’s in Robotics, University of Minnesota</li>
       <li>Bachelor’s in Computer Engineering, KFUEIT</li>
-      <li>GLABAL UGRAD program, Minnesota State University</li>
+      <li>Global UGRAD program, Minnesota State University</li>
     </ul>
   </div>
 </div>
