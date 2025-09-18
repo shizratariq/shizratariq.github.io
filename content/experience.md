@@ -4,6 +4,19 @@ layout: "page"
 permalink: "/experience/"
 ---
 
+## <h2>Research Assistant</h2>
+<span style="font-size: 0.85em; margin-bottom: 10px; display: inline-block;">*Biosensing and Biorobotics Laboratory, University of Minnesota — Summer 2025–Present*</span>  
+- Developing a computer vision and robotics pipeline for automated probe insertion in mouse brain experiments, integrating YOLO-based detection and geometric modeling  
+
+---
+
+## <h2>Teaching Assistant</h2>
+<span style="font-size: 0.85em; margin-bottom: 10px; display: inline-block;">*Carlson School of Management, University of Minnesota — Summer 2025*</span>  
+- Assisted students in MSF 6921: Introduction to Python with hands-on coding exercises, clarifying core Python concepts and the use of data analysis libraries  
+- Supported the instructor by grading assignments and providing guidance during class and office hours  
+
+---
+
 ## <h2>Research Assistant </h2> 
 <span style="font-size: 0.85em; margin-bottom: 10px; display: inline-block;">*College of Science and Engineering, University of Minnesota*</span>  
 - Collaborated on robotic surgery for histotripsy using the UR5e robotic arm with ROS2 and MoveIt2  
