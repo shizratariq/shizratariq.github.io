@@ -80,8 +80,7 @@ Beyond research, I love traveling and fashion.</description>
       
       <guid>https://shizratariq.github.io/experience/</guid>
       <description>Research Assistant Biosensing and Biorobotics Laboratory, University of Minnesota — Summer 2025–Present
-Developing a computer vision and robotics pipeline for automated probe insertion in mouse brain experiments, integrating YOLO-based detection and geometric modeling Teaching Assistant Carlson School of Management, University of Minnesota — Summer 2025
-Assisted students in MSF 6921: Introduction to Python with hands-on coding exercises, clarifying core Python concepts and the use of data analysis libraries Supported the instructor by grading assignments and providing guidance during class and office hours Research Assistant College of Science and Engineering, University of Minnesota</description>
+I am developing a real-time computer vision and robotics pipeline for automated probe insertion in the mouse brain to monitor neural activity. My work integrates object detection with keypoint-based pose estimation and Perspective-n-Point (PnP) to recover the full 6-DoF probe pose, while employing CNN-based classification to assess probe bending and stability under challenging visual conditions. Teaching Assistant Carlson School of Management, University of Minnesota — Summer 2025</description>
     </item>
     
     <item>
