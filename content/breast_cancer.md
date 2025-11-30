@@ -1,7 +1,7 @@
 ---
 title: "Breast Cancer Detection"
 layout: project
-permalink: /content/breast_cancer/
+permalink: /breast_cancer/
 ---
 
 
