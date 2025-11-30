@@ -63,15 +63,6 @@ This blog post will be helpful if you are not familiar with any of the below:</d
     </item>
     
     <item>
-      <title></title>
-      <link>https://shizratariq.github.io/super_resol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shizratariq.github.io/super_resol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>https://shizratariq.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,6 +110,17 @@ I am developing a real-time computer vision and robotics pipeline for automated 
       
       <guid>https://shizratariq.github.io/skills/</guid>
       <description>👨‍💻 Programming Languages Python C/C++ C# JavaScript MATLAB SQL 🧰 Tools &amp;amp; Frameworks Git GitHub Linux CUDA PyTorch OpenCV PyBullet JIRA 📜 Certificates Python for AI Convolutional Neural Networks SQL Machine Learning 🌟 These skills reflect my background in robotics, AI, and software engineering. Check out my projects to see them in action!</description>
+    </item>
+    
+    <item>
+      <title>Super resolution and Object detection on Remote sensing imagery</title>
+      <link>https://shizratariq.github.io/super_resol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/super_resol/</guid>
+      <description>Developed a mammography-based breast cancer detection system utilizing multiple machine learning techniques.
+GitHub Repository: View on GitHub
+Project report You can view or download the project report below: 📥 Download report (PDF)</description>
     </item>
     
   </channel>

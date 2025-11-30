@@ -53,9 +53,6 @@
     <loc>https://shizratariq.github.io/categories/tutorial/</loc>
     <lastmod>2023-02-19T11:42:25-05:00</lastmod>
   </url><url>
-    <loc>https://shizratariq.github.io/super_resol/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://shizratariq.github.io/about/</loc>
   </url><url>
     <loc>https://shizratariq.github.io/archives/</loc>
@@ -67,5 +64,7 @@
     <loc>https://shizratariq.github.io/projects/</loc>
   </url><url>
     <loc>https://shizratariq.github.io/skills/</loc>
+  </url><url>
+    <loc>https://shizratariq.github.io/super_resol/</loc>
   </url>
 </urlset>
