@@ -16,6 +16,11 @@ Developed a mammography-based breast cancer detection system using multiple mach
 You can view or download the project report below:
 <a href="/BC.pdf" target="_blank">📥 Download report (PDF)</a>
 
-<iframe src="/BC.pdf" width="200%" height="800px"></iframe>
+<iframe 
+    src="/BC.pdf#zoom=75" 
+    width="100%" 
+    height="800px" 
+    style="border:1px solid #ccc;">
+</iframe>
 
 ---
