@@ -185,3 +185,30 @@ permalink: /projects/
 ---
 
 
+
+<div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="/testing/" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              Testing the Future: Open Source vs. Proprietary AI 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Conducted a systematic comparison of open-source and proprietary AI models using real-world test cases from University of Minnesota professors across multiple subjects.</li>
+                <li>Designed and executed benchmarking methods to evaluate model performance in NLP, image recognition, and domain-specific tasks, then compiled results into a comprehensive dataset report.</li>
+                <li>Analyzed performance trends, identifying strengths, weaknesses, and applicability of each AI type, and produced a Performance Analysis Report and Comparative Presentation.</li>
+            </ul>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="/testing/">
+                <img src=https://github.com/user-attachments/assets/dd439196-86a6-4dc2-a07d-880e73441e7a alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
+
+---
+
+
