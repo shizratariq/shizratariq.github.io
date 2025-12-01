@@ -1,7 +1,7 @@
 ---
 title: "Testing the Future: Open Source vs. Proprietary AI"
 layout: project
-permalink: /testing/
+permalink: /test/
 ---
 
 
