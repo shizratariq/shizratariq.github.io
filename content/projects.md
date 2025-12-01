@@ -31,29 +31,7 @@ permalink: /projects/
 </div>
 
 ---
-  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
-        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
-            <h3 style="font-weight: bold;">
-            <a href="/breast_cancer/" 
-              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
-              onmouseover="this.style.color='#5555FA';" 
-              onmouseout="this.style.color='#B7D8FA';">
-              Breast Cancer Detection 🔗
-            </a>
-            </h3>
-            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
-                <li>Developed a mammography-based breast cancer detection system utilizing multiple machine learning techniques.</li>
-                <li>Implemented Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Neural Networks, and XGBoost for classification.</li>
-                <li>achieved 96.49% accuracy, 100% precision, 92.86% recall, 95.12% F1-score, and 0.996 AUC.</li>
-        </div>
-        <div class="video-column" style="flex: 1; margin-top: 30px">
-            <a href="https://github.com/shizratariq/Breast-Cancer-Detection" target="_blank">
-                <img src= https://github.com/user-attachments/assets/965ce6ab-afae-48f5-917c-4b4acd009897 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
-            </a>
-        </div>
-</div>
-              
----
+
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
@@ -80,6 +58,30 @@ permalink: /projects/
 </div>
               
 ---
+  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="/breast_cancer/" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              Breast Cancer Detection 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Developed a mammography-based breast cancer detection system utilizing multiple machine learning techniques.</li>
+                <li>Implemented Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Logistic Regression, Neural Networks, and XGBoost for classification.</li>
+                <li>achieved 96.49% accuracy, 100% precision, 92.86% recall, 95.12% F1-score, and 0.996 AUC.</li>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="https://github.com/shizratariq/Breast-Cancer-Detection" target="_blank">
+                <img src= https://github.com/user-attachments/assets/965ce6ab-afae-48f5-917c-4b4acd009897 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
+              
+---
+
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
