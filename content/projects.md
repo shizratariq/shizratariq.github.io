@@ -104,7 +104,7 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="/auto/" target="_blank">
-                <img src=https://github.com/user-attachments/assets/f9b4fdc0-d666-4778-b8a3-541e6601103a alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src=https://github.com/user-attachments/assets/a89bee74-2de6-4d64-91c0-5e1e0e491607 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
@@ -183,4 +183,5 @@ permalink: /projects/
 </div>
 
 ---
+
 
