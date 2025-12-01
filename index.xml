@@ -130,7 +130,7 @@ I am developing a real-time computer vision and robotics pipeline for automated 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shizratariq.github.io/projects/</guid>
-      <description>Computer Assisted Nueral Probe Insertion 🔗 Developed a computer-vision pipeline to detect the probe shaft and tip, classify bending, and enable real-time feedback during insertion. Curated and labeled datasets, trained segmentation and ResNet models, and analyzed performance issues such as dataset imbalance and visibility challenges. Designed and implemented a 3D calibration system using ArUco markers and camera parameters to convert 2D detections into 3D insertion coordinates. Built the workflow for automated probe insertion, including insertion-point estimation, reference-frame creation, trajectory planning for robotic control.</description>
+      <description>Computer Assisted Nueral Probe Insertion 🔗 Developed a computer-vision pipeline to detect the probe shaft and tip, classify bending, and enable real-time feedback during insertion. Prepared datasets, trained segmentation and ResNet models, and analyzed performance issues such as dataset imbalance and visibility challenges. Designed and implemented a 3D calibration system using ArUco markers and camera parameters to convert 2D detections into 3D insertion coordinates. Built the workflow for automated probe insertion, including insertion-point estimation, reference-frame creation, trajectory planning for robotic control.</description>
     </item>
     
     <item>
