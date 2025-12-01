@@ -177,7 +177,7 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="/bionic/">
-                <img src= https://github.com/user-attachments/assets/07e8e5ef-b80e-49d2-8773-8c01d5438507 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src=https://github.com/user-attachments/assets/1f43871e-df3a-4946-a2b9-22edc3fd0c6c alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
