@@ -16,9 +16,9 @@ permalink: /projects/
             </h3>
             <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
                 <li>Developed a computer-vision pipeline to detect the probe shaft and tip, classify bending, and enable real-time feedback during insertion.</li>
-                <li>Curated and labeled datasets, trained YOLOv8 segmentation and ResNet models, and analyzed performance issues such as dataset imbalance and visibility challenges.</li>
+                <li>Curated and labeled datasets, trained segmentation and ResNet models, and analyzed performance issues such as dataset imbalance and visibility challenges.</li>
                 <li>Designed and implemented a 3D calibration system using ArUco markers and camera parameters to convert 2D detections into accurate 3D insertion coordinates.</li>
-                <li>Built the workflow for automated probe insertion, including insertion-point estimation, reference-frame creation, trajectory planning, and waypoint generation for robotic control./li>
+                <li>Built the workflow for automated probe insertion, including insertion-point estimation, reference-frame creation, trajectory planning for robotic control./li>
             </ul>
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
