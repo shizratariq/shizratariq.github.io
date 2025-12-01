@@ -6,16 +6,16 @@ permalink: /super_resol/
 ---
 
 
-Developed a mammography-based breast cancer detection system utilizing multiple machine learning techniques.
+Enhanced object detection accuracy by improving input image resolution.
 
-**GitHub Repository:** [View on GitHub]([https://github.com/shizratariq/Breast-Cancer-Detection](https://github.com/anwesha-umn/Super_resolution_object_detection))
+**GitHub Repository:** [View on GitHub]([https://github.com/anwesha-umn/Super_resolution_object_detection](https://github.com/anwesha-umn/Super_resolution_object_detection))
 
 ---
 
 ## Project report
 
 You can view or download the project report below:
-<a href="/BC.pdf" target="_blank">📥 Download report (PDF)</a>
+<a href="/SR.pdf" target="_blank">📥 Download report (PDF)</a>
 
 <iframe 
     src="/SR.pdf#zoom=75" 
