@@ -164,5 +164,15 @@ GitHub Repository: View on GitHub
 Project report You can view or download the project report below: 📥 Download report (PDF)</description>
     </item>
     
+    <item>
+      <title>Testing the Future: Open Source vs. Proprietary AI</title>
+      <link>https://shizratariq.github.io/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/test/</guid>
+      <description>This project systematically compared open-source and proprietary AI models using real-world academic test cases to evaluate their accuracy, relevance, and practical performance. It produced benchmarking reports, analysis, and a seminar presentation to help stakeholders understand which models best fit their needs.
+Project report You can view or download the project report below: 📥 Download report (PDF)</description>
+    </item>
+    
   </channel>
 </rss>
