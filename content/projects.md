@@ -83,7 +83,7 @@ permalink: /projects/
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
-            <a href="https://github.com/anwesha-umn/TranscribeAI_subtitle_generation.git" 
+            <a href="/subtitle" 
               style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
               onmouseover="this.style.color='#5555FA';" 
               onmouseout="this.style.color='#B7D8FA';">
