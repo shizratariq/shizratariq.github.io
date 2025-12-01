@@ -56,6 +56,32 @@ permalink: /projects/
             </a>
         </div>
 </div>
+
+---
+
+  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="/auto/" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              Autoethnographic Study on Social Media Usage 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Collected two weeks of data on my social media use through field notes, journal entries, and reflections.</li>
+                <li>Examined how my cultural background and personal habits shape the way I use different social apps.</li>
+                <li>Identified key themes such as emotional impact, productivity vs. distraction, and platform-specific behaviors.</li>
+                <li>Connected my experiences to existing research and reflected on how social media influences my daily life and wellbeing.</li>
+            </ul>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="/auto/" target="_blank">
+                <img src= https://github.com/user-attachments/assets/d391b6c6-737d-4968-81ec-1e57733d8a47 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
               
 ---
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
