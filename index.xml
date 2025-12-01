@@ -106,6 +106,15 @@ Project report You can view or download the project report below: 📥 Download 
     </item>
     
     <item>
+      <title>Computer Assisted Neural Probe Insertion</title>
+      <link>https://shizratariq.github.io/probe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/probe/</guid>
+      <description>I developed a computer-vision–based system to detect neural probes, estimate insertion points using 3D calibration with ArUco markers, and guide automated probe placement. I also built the full workflow; from data labeling to trajectory planning, to enable accurate, safe, and repeatable probe insertions. Project report You can view or download the project report below: 📥 Download report (PDF)</description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>https://shizratariq.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
