@@ -91,12 +91,10 @@ permalink: /projects/
             </a>
             </h3>
             <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
-                <li>Implemented <strong>SRGAN (4x super-resolution)</strong> to enhance image quality.</li>
-                <li>Improved <strong>Peak Signal-to-Noise Ratio (PSNR)</strong> and <strong>Structural Similarity Index (SSIM)</strong> metrics.</li>
-                <li>Achieved a <strong>+18.7% increase in mean Average Precision (mAP)</strong> for aerial object detection.</li>
-                <li>Boosted mAP from <strong>49.6% to 68.3%</strong> using enhanced images.</li>
-                <li>Utilized <strong>YOLOv11-OBB</strong> for detecting <strong>8 object classes</strong> in the <strong>DOTA dataset</strong>.</li>
-                <li>Enhanced object detection accuracy by improving input image resolution.</li>
+                <li>Developed a system to enhance subtitle accuracy in videos by improving transcription quality, segmentation, and timestamp alignment.</li>
+                <li>Evaluated Whisper variants, LLM-based segmentation (Gemini, SaT), and a custom segmentation function to optimize readability and synchronization.</li>
+                <li>Built a custom dataset with refined SRT files and fine-tuned STT models to better handle accents, long speech, and noisy environments.</li>
+                <li>Implemented a full end-to-end Streamlit pipeline for generating improved subtitles, integrating Whisper transcription, segmentation methods, and FFmpeg-based SRT embedding.</li>
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="https://github.com/anwesha-umn/TranscribeAI_subtitle_generation" target="_blank">
