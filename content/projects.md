@@ -197,9 +197,9 @@ permalink: /projects/
             </a>
             </h3>
             <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
-                <li>Conducted a systematic comparison of open-source and proprietary AI models using real-world test cases from University of Minnesota professors across multiple subjects.</li>
-                <li>Designed and executed benchmarking methods to evaluate model performance in NLP, image recognition, and domain-specific tasks, then compiled results into a comprehensive dataset report.</li>
-                <li>Analyzed performance trends, identifying strengths, weaknesses, and applicability of each AI type, and produced a Performance Analysis Report and Comparative Presentation.</li>
+                <li>Conducted a systematic comparison of open-source and proprietary AI models using real-world test cases.</li>
+                <li>Designed and executed benchmarking methods to evaluate model performance in NLP, image recognition, and domain-specific tasks.</li>
+                <li>Analyzed performance trends and produced a Performance Analysis Report.</li>
             </ul>
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
