@@ -30,28 +30,32 @@ permalink: /projects/
 
 ---
 
+<div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
+            <a href="/bionic/" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              Bionic Arm Equivalent Model Based on IoT and AI Classification 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Developed a myoelectric, IoT and AI-based bionic arm model that interprets EMG muscle signals to control a 3D-printed prosthetic hand in real time.</li>
+                <li>Trained and evaluated a Support Vector Machine classifier for recognizing multiple hand gestures for bionic arm control.</li>
+                <li>Integrated Arduino-driven servo actuation with a customized 3D-printed hand, demonstrating a low-cost hardware implementation and identifying key limitations such as per-user data collection and EMG noise for future improvement.</li>
+            </ul>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="/bionic/">
+                <img src= https://github.com/user-attachments/assets/07e8e5ef-b80e-49d2-8773-8c01d5438507 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+<div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
             <a href="https://github.com/shizratariq/Turtlebot3-RRT-Pathfinder" 
@@ -125,7 +129,7 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="/auto/" target="_blank">
-                <img src= https://github.com/user-attachments/assets/d391b6c6-737d-4968-81ec-1e57733d8a47 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src=https://github.com/user-attachments/assets/d391b6c6-737d-4968-81ec-1e57733d8a47 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
@@ -177,5 +181,6 @@ permalink: /projects/
             </a>
         </div>
 </div>
+
 
 
