@@ -7,6 +7,53 @@ permalink: /projects/
   <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
         <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
             <h3 style="font-weight: bold;">
+            <a href="/probe/" 
+              style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
+              onmouseover="this.style.color='#5555FA';" 
+              onmouseout="this.style.color='#B7D8FA';">
+              Computer Assisted Nueral Probe Insertion 🔗
+            </a>
+            </h3>
+            <ul style="list-style-type: disc; margin-left: -20px; font-size: 0.9em;">
+                <li>Developed a computer-vision pipeline to detect the probe shaft and tip, classify bending, and enable real-time feedback during insertion.</li>
+                <li>Curated and labeled datasets, trained YOLOv8 segmentation and ResNet models, and analyzed performance issues such as dataset imbalance and visibility challenges.</li>
+                <li>Designed and implemented a 3D calibration system using ArUco markers and camera parameters to convert 2D detections into accurate 3D insertion coordinates.</li>
+                <li>Built the workflow for automated probe insertion, including insertion-point estimation, reference-frame creation, trajectory planning, and waypoint generation for robotic control./li>
+            </ul>
+        </div>
+        <div class="video-column" style="flex: 1; margin-top: 30px">
+            <a href="/probe/">
+                <img src= https://github.com/user-attachments/assets/07e8e5ef-b80e-49d2-8773-8c01d5438507 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+            </a>
+        </div>
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="two-column-layout" style="display: flex; margin-top: 50px; justify-content: space-between;">
+        <div class="text-column" style="flex: 1; justify-contect; margin-right: 50px;">
+            <h3 style="font-weight: bold;">
             <a href="https://github.com/shizratariq/Turtlebot3-RRT-Pathfinder" 
               style="text-decoration: none; color: #B7D8FA; transition: color 0.2s ease;"
               onmouseover="this.style.color='#5555FA';" 
