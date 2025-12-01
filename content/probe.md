@@ -6,11 +6,13 @@ permalink: /probe/
 ---
 
 I developed a computer-vision–based system to detect neural probes, estimate insertion points using 3D calibration with ArUco markers, and guide automated probe placement. I also built the full workflow; from data labeling to trajectory planning, to enable accurate, safe, and repeatable probe insertions.
+
+
 ---
 
-## Project report
+## Project Presentation
 
-You can view or download the project report below:
+You can view or download the project presentation below:
 <a href="/probe.pdf" target="_blank">📥 Download report (PDF)</a>
 
 <iframe 
