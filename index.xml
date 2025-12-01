@@ -72,6 +72,17 @@ This blog post will be helpful if you are not familiar with any of the below:</d
 Beyond research, I love traveling and fashion.</description>
     </item>
     
+    <item>
+      <title>Accurate Subtitle Generation in Videos </title>
+      <link>https://shizratariq.github.io/subtitle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shizratariq.github.io/subtitle/</guid>
+      <description>Implemented a full end-to-end Streamlit pipeline for generating improved subtitles, integrating Whisper transcription, segmentation methods, and FFmpeg-based SRT embedding.
+GitHub Repository: View on GitHub
+Project report You can view or download the project report below: 📥 Download report (PDF)</description>
+    </item>
+    
     
     <item>
       <title>Breast Cancer Detection</title>
