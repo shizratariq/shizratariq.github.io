@@ -104,7 +104,7 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="/auto/" target="_blank">
-                <img src=https://github.com/user-attachments/assets/d391b6c6-737d-4968-81ec-1e57733d8a47 alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src=https://github.com/user-attachments/assets/f9b4fdc0-d666-4778-b8a3-541e6601103a alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
@@ -177,9 +177,10 @@ permalink: /projects/
         </div>
         <div class="video-column" style="flex: 1; margin-top: 30px">
             <a href="/bionic/">
-                <img src=https://github.com/user-attachments/assets/1f43871e-df3a-4946-a2b9-22edc3fd0c6c alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
+                <img src=https://github.com/user-attachments/assets/9d3acb1c-80be-4254-8544-66975864eaaa alt="Video Thumbnail" style="width: 100%; cursor: pointer;">
             </a>
         </div>
 </div>
 
 ---
+
